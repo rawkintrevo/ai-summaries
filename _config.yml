@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AI Generate Summaries by Aboriginal Armadillo
+title: AI Generated Summaries by Aboriginal Armadillo
 email: trevor@aboriginal-armadillo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Explore a treasure trove of AI-generated book and article summaries at our online hub! Discover concise, insightful, 
+  and meticulously crafted summaries that make navigating complex literature a breeze. Enhance your knowledge, save 
+  time, and stay informed with our AI-powered summaries. Dive in today!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://summaries.aboriginal-armadillo.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rawkintrevo
 github_username:  rawkintrevo
+
+google_analytics: G-TXDMGLF9GW
 
 # Build settings
 theme: minima

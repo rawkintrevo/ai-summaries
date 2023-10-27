@@ -4,4 +4,11 @@
 
 layout: home
 ---
-[Federal Contracting Made Easy, 4th Edition](summaries/federalcontractingmadeeasy4thedition/index.html)
+
+## Books
+
+- [Federal Contracting Made Easy, 4th Edition](summaries/federalcontractingmadeeasy4thedition/index.html)
+
+## Journal Aricles
+
+## Other
