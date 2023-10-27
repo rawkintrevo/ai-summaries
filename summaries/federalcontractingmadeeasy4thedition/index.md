@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Federal Contracting Made Easy, 4th Edition

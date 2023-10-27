@@ -4,5 +4,4 @@
 
 layout: home
 ---
-[test-2](summaries/test2/index.html)
 [Federal Contracting Made Easy, 4th Edition](summaries/federalcontractingmadeeasy4thedition/index.html)
