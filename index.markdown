@@ -12,3 +12,4 @@ layout: home
 ## Journal Aricles
 
 ## Other
+[Quantum generative adversarial learning in photonics](summaries/quantumgenerativeadversariallearninginphotonics/index.html)
