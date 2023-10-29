@@ -13,3 +13,4 @@ layout: home
 
 ## Other
 [Quantum generative adversarial learning in photonics](summaries/quantumgenerativeadversariallearninginphotonics/index.html)
+[The impact of the parking situation in shopping centres on store choice behaviour](summaries/theimpactoftheparkingsituationinshoppingcentresonstorechoicebehaviour/index.html)
