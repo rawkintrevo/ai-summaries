@@ -7,11 +7,18 @@ layout: home
 
 ## Books
 
+### Business
+
 - [Federal Contracting Made Easy, 4th Edition](summaries/federalcontractingmadeeasy4thedition/index.html)
 
 ## Journal Aricles
 
+### Quantum Physics
+- [Quantum generative adversarial learning in photonics](summaries/quantumgenerativeadversariallearninginphotonics/index.html)
+
+### Traffic Engineering
+- [The impact of the parking situation in shopping centres on store choice behaviour](summaries/theimpactoftheparkingsituationinshoppingcentresonstorechoicebehaviour/index.html)
+- [The Effect of Bus Rapid Transit on Local Home Prices](summaries/theeffectofbusrapidtransitonlocalhomeprices/index.html)
+
+
 ## Other
-[Quantum generative adversarial learning in photonics](summaries/quantumgenerativeadversariallearninginphotonics/index.html)
-[The impact of the parking situation in shopping centres on store choice behaviour](summaries/theimpactoftheparkingsituationinshoppingcentresonstorechoicebehaviour/index.html)
-[The Effect of Bus Rapid Transit on Local Home Prices](summaries/theeffectofbusrapidtransitonlocalhomeprices/index.html)
