@@ -26,3 +26,4 @@ layout: home
 - [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/efficientmemorymanagementforlargelanguagemodelservingwithpagedattention/index.html)
 
 ## Other
+[NEFTU N E : NOISY EMBEDDINGS IMPROVE INSTRUCTION FINETUNING](summaries/neftunenoisyembeddingsimproveinstructionfinetuning/index.html)
