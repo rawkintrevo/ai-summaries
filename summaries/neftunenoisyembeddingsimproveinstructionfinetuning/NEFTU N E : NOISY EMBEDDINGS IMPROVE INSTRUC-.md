@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NEFTU N E : NOISY EMBEDDINGS IMPROVE INSTRUC-
+title: NEFTU N E NOISY EMBEDDINGS IMPROVE INSTRUC-
 date: 2023-10-30 18:13:30
 ---
 In this paper, the authors propose a technique called Noisy Embedding Instruction Fine Tuning (NEFTune) to improve the performance of fine-tuning generative language models (LLMs) on instruction datasets. They show that by adding random noise to the embedding vectors of the training data during fine-tuning, they can achieve significant improvements in conversational quality without additional computational or data overhead.
