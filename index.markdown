@@ -20,7 +20,9 @@ layout: home
 - [The impact of the parking situation in shopping centres on store choice behaviour](summaries/theimpactoftheparkingsituationinshoppingcentresonstorechoicebehaviour/index.html)
 - [The Effect of Bus Rapid Transit on Local Home Prices](summaries/theeffectofbusrapidtransitonlocalhomeprices/index.html)
 
+### Generative AI
+
+- [Unleashing the Potential of LLMs for Quantum Computing](summaries/unleashingthepotentialofllmsforquantumcomputing/index.html)
+- [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/efficientmemorymanagementforlargelanguagemodelservingwithpagedattention/index.html)
 
 ## Other
-[Unleashing the Potential of LLMs for Quantum Computing](summaries/unleashingthepotentialofllmsforquantumcomputing/index.html)
-[Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/efficientmemorymanagementforlargelanguagemodelservingwithpagedattention/index.html)
