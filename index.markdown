@@ -22,3 +22,4 @@ layout: home
 
 
 ## Other
+[Unleashing the Potential of LLMs for Quantum Computing](summaries/unleashingthepotentialofllmsforquantumcomputing/index.html)
