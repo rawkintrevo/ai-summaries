@@ -23,3 +23,4 @@ layout: home
 
 ## Other
 [Unleashing the Potential of LLMs for Quantum Computing](summaries/unleashingthepotentialofllmsforquantumcomputing/index.html)
+[Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/efficientmemorymanagementforlargelanguagemodelservingwithpagedattention/index.html)
