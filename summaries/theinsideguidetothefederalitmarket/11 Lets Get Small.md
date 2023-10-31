@@ -1,0 +1,10 @@
+---
+layout: page
+title: 11 Lets Get Small
+date: 2023-10-31 18:48:08
+---
+The idea of small businesses as an engine of economic growth and innovation is a bedrock one in federal procurement. The belief that the federal government should specifically encourage small business participation in federal contracting is also a long-held one, dating back to the Great Depression. In the decades since, it’s become enshrined in policy that small businesses should have “maximum practicable opportunities” to compete for prime contracts and subcontract awards. The federal government, large federal contractors, and individuals must work together to ensure that small business participation in federal contracting is a reality.
+ 
+Government policy is to set aside for small businesses standalone procurements of commercial items worth between the micro-purchase threshold and the simplified acquisition threshold. In addition, the government operates under the mandate to award 23 percent of all federal prime contract dollars to small businesses, with subpercentages dedicated to particular socioeconomic groups, such as service-disabled veteran owners of small businesses. Agencies also have small business subcontracting goals, which collectively hover around 35 percent of subcontract dollars. The Federal Acquisition Regulation (FAR) requires that large businesses give small businesses the “maximum practicable opportunity” to participate as subcontractors.  For all procurements worth more than the simplified acquisition threshold, contracting officers are supposed to consider whether a set-aside is possible under a standard known as the Rule of Two. Contracting officers can also make partial set-asides, whereby a defined portion of a particular procurement goes to a small business. The 23 percent goal isn’t uniform from agency to agency; it is a collective goal that varies by as much as 50 percentage points, depending on the particular agency involved. Agencies that traditionally have very high prime goals include the departments of Agriculture, Housing and Urban Development, Interior, and the
+
+Words: 290

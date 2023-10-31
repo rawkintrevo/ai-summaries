@@ -1,0 +1,16 @@
+---
+layout: page
+title: 07 Keep Your Nose Clean
+date: 2023-10-31 18:46:51
+---
+The article discusses the rules and consequences of unethical behavior in business, specifically in relation to federal contracts. It explains that unethical behavior can lead to suspension and debarment, which means being banned from doing federal business. Suspension is temporary, pending an investigation or legal proceedings, while debarment can be permanent. Being suspended or debarred prevents individuals or companies from receiving new federal contracts and can also damage their reputation. The article also explains that recipients of government grants and assistance are subject to similar suspension and debarment rules. 
+
+The article further explains that there are other causes for suspension and debarment, such as false "Made in America" inscriptions, unfair trade practices, and delinquent taxes. It states that suspension and debarment are not meant to act as punishment or justice, but rather to protect the government's interest. The article also discusses the rules and requirements for ethical behavior in business, such as proactive disclosure of employee behavior involving fraud or bribery. It explains that companies with federal contracts must have a written code of ethics and conduct in place, conduct regular ethics training, and establish internal control systems.
+
+In terms of interactions with federal employees, the article explains that it is important to avoid bribery, gratuities, and gifts that could be perceived as bribes or gratuities. It also discusses the rules around job offers to federal employees, emphasizing the importance of avoiding conflicts of interest and the appearance of impropriety. The article explains that former federal employees must adhere to certain restrictions in regards to communications with their former agencies and the acceptance of job offers from companies they previously worked with.
+
+The article then explains the equal opportunity and affirmative action requirements for federal contractors. It states that contractors must extend equal opportunity and implement affirmative action programs for minorities and women, veterans, and people with disabilities. It discusses the requirements for written affirmative action plans and the reporting and recordkeeping obligations of contractors. The article also explains that federal contractors must comply with the Service Contract Act, which requires the payment of prevailing wages and benefits to certain employees.
+
+Lastly, the article discusses anticompetitive behavior, kickbacks, contingency fees, and organizational conflicts of interest. It provides examples and explanations of each and emphasizes the importance of avoiding these unethical practices in the federal contracting industry. The article concludes by stating that it is important for individuals and companies to understand and abide by the ethical rules and regulations in order to maintain a good reputation and comply with federal requirements.
+
+Words: 421
