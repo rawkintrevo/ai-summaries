@@ -11,6 +11,15 @@ layout: home
 
 - [Federal Contracting Made Easy, 4th Edition](summaries/federalcontractingmadeeasy4thedition/index.html)
 
+### Computer Science
+
+- [GPT-4 and ChatGPT for Apps](summaries/gpt4andchatgptforapps/index.html)
+
+### Urban Planning
+
+- [Carmageddon- How Cars Make Life Worse and What to Do About It](summaries/carmageddonhowcarsmakelifeworseandwhattodoaboutit/index.html)
+
+
 ## Journal Aricles
 
 ### Quantum Physics
@@ -24,8 +33,9 @@ layout: home
 
 - [Unleashing the Potential of LLMs for Quantum Computing](summaries/unleashingthepotentialofllmsforquantumcomputing/index.html)
 - [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/efficientmemorymanagementforlargelanguagemodelservingwithpagedattention/index.html)
+- [NEFTU N E : NOISY EMBEDDINGS IMPROVE INSTRUCTION FINETUNING](summaries/neftunenoisyembeddingsimproveinstructionfinetuning/index.html)
 
 ## Other
-[NEFTU N E : NOISY EMBEDDINGS IMPROVE INSTRUCTION FINETUNING](summaries/neftunenoisyembeddingsimproveinstructionfinetuning/index.html)
-[GPT-4 and ChatGPT for Apps](summaries/gpt4andchatgptforapps/index.html)
-[Carmageddon- How Cars Make Life Worse and What to Do About It](summaries/carmageddonhowcarsmakelifeworseandwhattodoaboutit/index.html)
+
+
+
