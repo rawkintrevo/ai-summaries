@@ -1,0 +1,8 @@
+---
+layout: page
+title: 9   WHY YOU CAN’T BEAT TRAFFIC
+date: 2023-10-31 02:01:35
+---
+On December 15, 1973, a road collapse in New York City demonstrated that adding more roads does not solve traffic congestion. The West Side elevated highway, one of the world's first freeways, collapsed due to poor construction and maintenance. Despite fears that the collapse would lead to increased congestion on other roads, traffic actually decreased as people found alternative modes of transportation. This phenomenon, known as induced demand, occurs when people choose between different forms of travel based on the availability of options. Adding more road capacity initially speeds up traffic, but over time, more people choose to drive on the wider road, leading to congestion levels returning to their previous state. Studies have shown that road expansion induces increased driving, particularly in urban areas, where alternative transportation options are available. The concept of induced demand is not inherently negative, but when it comes to urban congestion, it is clear that oversupplying road space is not the solution. The actual "cost" of congestion is what people are willing to pay to avoid it, and if people are not willing to pay tolls to avoid traffic jams, then their productivity is not being significantly hindered. Focusing on road expansion as a solution is not a good use of resources when there is already excess road space in many cities. Instead, charging a reasonable price for road use and
+
+Words: 227

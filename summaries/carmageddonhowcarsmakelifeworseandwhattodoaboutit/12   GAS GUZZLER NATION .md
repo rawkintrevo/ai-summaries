@@ -1,0 +1,14 @@
+---
+layout: page
+title: 12   GAS GUZZLER NATION 
+date: 2023-10-31 01:57:47
+---
+In this piece, the author discusses the rise in popularity of large vehicles, such as monster trucks, SUVs, and pickup trucks, and the negative consequences that come with them. The author shares their experience attending a monster truck rally in Wisconsin and describes the immense size and noise of the vehicles. They explain that, while monster truck rallies are a form of entertainment mostly unheard of outside of North America, they reflect a larger trend in the car industry of producing larger, more powerful vehicles. The author argues that this trend is driven by a desire for power, a sense of ruggedness, and the idea of freedom. 
+
+The author points out that not only do these larger vehicles have a negative impact on the environment due to their increased fuel consumption and CO2 emissions, but they also pose a greater risk to public safety. SUVs and pickup trucks are more likely to cause serious injuries or fatalities in accidents compared to smaller cars. Moreover, the larger size of these vehicles creates significant blind spots, especially in front, which increases the risk of accidents involving pedestrians or cyclists. The author highlights the fact that car manufacturers have found a way to make more profit from these larger vehicles, as they have higher profit margins compared to smaller cars. However, this profitability comes at a cost to the environment and public safety.
+
+The author also explores the role of regulations and government policies in the production and sale of these larger vehicles. They argue that current regulations, such as the Corporate Average Fuel Economy (CAFE) standards in the US, allow car manufacturers to balance out sales of electric vehicles with sales of larger, less fuel-efficient vehicles. As a result, individual consumers who purchase electric vehicles are not necessarily reducing overall emissions, as car manufacturers can still sell larger vehicles with higher emissions. The author suggests that stricter regulations and government action are necessary to address the negative impacts of these larger vehicles.
+
+The author concludes by critiquing the car industry as profit-driven and argues that car manufacturers cannot be trusted to prioritize safety, environmental sustainability, or the well-being of their workers without external pressure. They highlight the increasing use of automation and robotics in car manufacturing, which poses a threat to jobs in the industry. The author suggests that efforts to bring back jobs in the car industry are futile and that the focus should be on transitioning towards greener and more sustainable transportation options. They assert that the car industry is not a noble pursuit, but a business, and that it is important to recognize the negative consequences that come with prioritizing larger and more powerful vehicles.
+
+Words: 446
