@@ -40,3 +40,4 @@ layout: home
 
 
 [The Inside Guide to the Federal IT Market](summaries/theinsideguidetothefederalitmarket/index.html)
+[Homelessness Is a Housing Problem](summaries/homelessnessisahousingproblem/index.html)

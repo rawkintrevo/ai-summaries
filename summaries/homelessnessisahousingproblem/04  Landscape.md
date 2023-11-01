@@ -1,0 +1,20 @@
+---
+layout: page
+title: 04  Landscape
+date: 2023-11-01 01:37:38
+---
+In Chapter Four of their book, "Homelessness in America," authors Matthew Desmond and Gregg G. Van Ryzin analyze the cultural and environmental factors frequently cited as reasons for high rates of homelessness in certain cities. They explore the arguments that weather, public assistance, and local political environment contribute to homelessness, and present evidence that challenges these claims.
+
+The chapter begins by discussing a white paper published by a candidate for the Seattle City Council that blamed rising rates of homelessness on a "loose alliance" of socialist intellectuals, compassion brigades, the homeless-industrial complex, and addiction evangelists. The authors argue that this argument of "ruinous compassion" and disdain for compassionate responses to homelessness is not unique to local politics, and cite a report by the Trump administration's Council of Economic Advisors that also discusses the factors driving homelessness and the shortcomings of previous federal policies.
+
+The authors then delve into the first factor commonly cited in explanations for high rates of homelessness: weather. They mention the common argument that the temperate climates of cities on the West Coast attract people experiencing homelessness, but challenge this claim by pointing out that states like Texas and Florida also have mild winters but relatively low rates of homelessness. They argue that while weather may influence the level of unsheltered homelessness in a city, it does not explain overall rates of homelessness. They present data that shows no relationship between average January temperatures and rates of homelessness when analyzing city and county Continuum of Care (CoC) data from 2007 to 2019.
+
+The authors also explore the relationship between weather and sheltered versus unsheltered homelessness. They find a positive relationship between weather and unsheltered counts, particularly in cities, but argue that this may be due to the coincidence that many cities with low rates of homelessness are located in colder climates. They suggest that the relationship between temperature and unsheltered homelessness may be driven by the availability of shelter capacity in response to harsh winters, rather than a direct causal relationship between temperature and homelessness.
+
+Next, the authors examine the argument that generous social services and benefits act as a "magnet" for people experiencing homelessness. They analyze the relationship between the generosity of Temporary Assistance for Needy Families (TANF) benefits and rates of family homelessness, and find no relationship between the two. They also investigate the proportion of low-income migration to a region and its relationship to rates of homelessness, and find no evidence of disproportionate movement of low-income households to certain regions.
+
+Finally, the authors discuss the role of the local political environment in shaping responses to homelessness. They note that the mayors of large U.S. cities are predominantly members of the Democratic Party, and challenge the argument that permissive policies and ordinances implemented by Democrats are to blame for high rates of homelessness. They also argue against the idea that stronger policing and more restrictive ordinances reduce rates of homelessness, presenting evidence that such approaches simply relocate the problem rather than addressing its underlying causes.
+
+Overall, the authors provide evidence that challenges the common cultural and environmental explanations for high rates of homelessness in certain cities. They argue that weather, public assistance, and local politics do not directly cause homelessness, and suggest that addressing the crisis requires a broader understanding of the issue and a focus on housing stability rather than punitive measures.
+
+Words: 558

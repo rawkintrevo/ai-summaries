@@ -1,0 +1,16 @@
+---
+layout: page
+title: 05 Market
+date: 2023-11-01 01:37:55
+---
+In Chapter Five of the book "Homeward: Life in the Year After Prison" by Bruce Western, the author explores the relationship between housing markets and homelessness. The chapter begins by discussing the annual ranking of states published by U.S. News and World Report, which takes into account factors such as healthcare, education, economy, infrastructure, and crime rates. While states like Washington rank highly on this list, they also have high rates of homelessness. On the other hand, Mississippi, a state with lower rankings in terms of healthcare, education, and economy, has the lowest per capita rate of homelessness. The author attributes this difference in homelessness rates to the affordability of housing in Mississippi, as it is a cheaper place to live.
+
+The chapter then delves into the concept of housing cost burden, which refers to the percentage of household income that goes towards rent. While it is commonly believed that higher housing cost burdens increase the risk of homelessness, the author argues that the relationship between housing cost burden and homelessness is more complex. Evidence shows that the relationship between median gross rent as a percentage of household income and per capita rates of homelessness is actually mildly negative. This can be explained by the fact that housing costs tend to scale with incomes within a metropolitan area, so even in regions with high housing costs, the cost burden may not be as high due to higher median incomes. Furthermore, the analysis of first-quartile housing cost burden, which considers the burden faced by low-income households, also fails to provide a credible explanation for regional variation in homelessness rates.
+
+The author then examines the role of absolute rent levels in explaining variations in homelessness rates. The data shows a convincing positive relationship between median rent levels and homelessness rates in both city and county regions. This suggests that higher rent levels contribute to higher rates of homelessness. The relationship holds true even when looking at first-quartile rents, which consider the rents faced by low-income households.
+
+The chapter also explores the relationship between rental market vacancy rates and homelessness rates. It is found that regions with low vacancy rates tend to have higher rates of homelessness, while regions with higher vacancy rates have lower rates of homelessness. This relationship is intuitive, as high demand for housing and low availability contribute to homelessness. However, the data also shows that regions with high vacancy rates, such as Detroit, can still have high rates of homelessness due to the unavailability of vacant units for lease.
+
+The chapter concludes by discussing the importance of understanding housing market dynamics in explaining regional variations in homelessness. Housing cost burden, rent levels, and vacancy rates all play a role in shaping homelessness rates in different regions. However, these factors do not explain all the variation in homelessness rates, and other factors, such as income inequality, also contribute to the problem. Overall, the chapter highlights the need to address structural housing market issues in order to effectively combat homelessness.
+
+Words: 499
