@@ -18,7 +18,7 @@ layout: home
 ### Urban Planning
 
 - [Carmageddon- How Cars Make Life Worse and What to Do About It](summaries/carmageddonhowcarsmakelifeworseandwhattodoaboutit/index.html)
-
+- [Homelessness Is a Housing Problem](summaries/homelessnessisahousingproblem/index.html)
 
 ## Journal Aricles
 
@@ -40,4 +40,4 @@ layout: home
 
 
 [The Inside Guide to the Federal IT Market](summaries/theinsideguidetothefederalitmarket/index.html)
-[Homelessness Is a Housing Problem](summaries/homelessnessisahousingproblem/index.html)
+
