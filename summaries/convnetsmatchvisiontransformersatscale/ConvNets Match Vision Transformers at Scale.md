@@ -3,6 +3,9 @@ layout: page
 title: ConvNets Match Vision Transformers at Scale
 date: 2023-11-02 14:26:49
 ---
+
+[Back](../)
+
 The paper titled "ConvNets Match Vision Transformers at Scale" by Samuel L Smith, Andrew Brock, Leonard Berrada, and Soham De from Google DeepMind challenges the belief that Convolutional Neural Networks (ConvNets) are not competitive with Vision Transformers (ViTs) on large datasets. The authors evaluate the performance of ConvNets pre-trained on a large labeled dataset called JFT-4B and compare it to ViTs with similar compute budgets.
 
 The paper begins by providing background information on the success of ConvNets in computer vision and the recent rise of ViTs. The authors note that the computer vision community has shifted towards evaluating models pre-trained on large general-purpose datasets collected from the web. The question arises whether ViTs outperform ConvNets pre-trained with similar computational budgets.
