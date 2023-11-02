@@ -41,3 +41,4 @@ layout: home
 
 [The Inside Guide to the Federal IT Market](summaries/theinsideguidetothefederalitmarket/index.html)
 
+[ConvNets Match Vision Transformers at Scale](summaries/convnetsmatchvisiontransformersatscale/index.html)
