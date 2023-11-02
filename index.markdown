@@ -9,8 +9,10 @@ layout: home
 
 ### Business
 
+### Federal Contracting
 - [Federal Contracting Made Easy, 4th Edition](summaries/federalcontractingmadeeasy4thedition/index.html)
-
+- [The Inside Guide to the Federal IT Market](summaries/theinsideguidetothefederalitmarket/index.html)
+  
 ### Computer Science
 
 - [GPT-4 and ChatGPT for Apps](summaries/gpt4andchatgptforapps/index.html)
@@ -31,14 +33,20 @@ layout: home
 
 ### Generative AI
 
-- [Unleashing the Potential of LLMs for Quantum Computing](summaries/unleashingthepotentialofllmsforquantumcomputing/index.html)
+#### Images
+- [ConvNets Match Vision Transformers at Scale](summaries/convnetsmatchvisiontransformersatscale/index.html)
+
+#### Inference
 - [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/efficientmemorymanagementforlargelanguagemodelservingwithpagedattention/index.html)
+
+
+#### Text
+- [Unleashing the Potential of LLMs for Quantum Computing](summaries/unleashingthepotentialofllmsforquantumcomputing/index.html)
 - [NEFTU N E : NOISY EMBEDDINGS IMPROVE INSTRUCTION FINETUNING](summaries/neftunenoisyembeddingsimproveinstructionfinetuning/index.html)
+
+
 
 ## Other
 
 
 
-[The Inside Guide to the Federal IT Market](summaries/theinsideguidetothefederalitmarket/index.html)
-
-[ConvNets Match Vision Transformers at Scale](summaries/convnetsmatchvisiontransformersatscale/index.html)
