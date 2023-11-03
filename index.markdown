@@ -54,3 +54,5 @@ layout: home
 - [QLORA- Efficient Finetuning of Quantized LLMs](summaries/qloraefficientfinetuningofquantizedllms/index.html)
 
 - [Llama 2 Open Foundation and Fine-Tuned Chat Models](summaries/llama2openfoundationandfinetunedchatmodels/index.html)
+
+- [Prefix-Tuning- Optimizing Continuous Prompts for Generation](summaries/prefixtuningoptimizingcontinuouspromptsforgeneration/index.html)
