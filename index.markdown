@@ -60,3 +60,5 @@ layout: home
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](summaries/thepowerofscaleforparameterefficientprompttuning/index.html)
 
 - [Lora- Low-Rank Adaptation Of Large Language Models](summaries/loralowrankadaptationoflargelanguagemodels/index.html)
+
+- [Gpt Understands, Too](summaries/gptunderstandstoo/index.html)
