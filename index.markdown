@@ -64,3 +64,5 @@ layout: home
 - [Gpt Understands, Too](summaries/gptunderstandstoo/index.html)
 
 - [Llm Int8()- 8-Bit Matrix Multiplication](summaries/llmint88bitmatrixmultiplication/index.html)
+
+- [Few-Shot Parameter-Efficient Fine-Tuning Is Better](summaries/fewshotparameterefficientfinetuningisbetter/index.html)
