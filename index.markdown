@@ -56,3 +56,5 @@ layout: home
 - [Llama 2 Open Foundation and Fine-Tuned Chat Models](summaries/llama2openfoundationandfinetunedchatmodels/index.html)
 
 - [Prefix-Tuning- Optimizing Continuous Prompts for Generation](summaries/prefixtuningoptimizingcontinuouspromptsforgeneration/index.html)
+
+- [The Power of Scale for Parameter-Efficient Prompt Tuning](summaries/thepowerofscaleforparameterefficientprompttuning/index.html)
