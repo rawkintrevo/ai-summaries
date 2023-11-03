@@ -58,3 +58,5 @@ layout: home
 - [Prefix-Tuning- Optimizing Continuous Prompts for Generation](summaries/prefixtuningoptimizingcontinuouspromptsforgeneration/index.html)
 
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](summaries/thepowerofscaleforparameterefficientprompttuning/index.html)
+
+- [Lora- Low-Rank Adaptation Of Large Language Models](summaries/loralowrankadaptationoflargelanguagemodels/index.html)
