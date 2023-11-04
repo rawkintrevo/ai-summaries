@@ -66,3 +66,5 @@ layout: home
 - [Llm Int8()- 8-Bit Matrix Multiplication](summaries/llmint88bitmatrixmultiplication/index.html)
 
 - [Few-Shot Parameter-Efficient Fine-Tuning Is Better](summaries/fewshotparameterefficientfinetuningisbetter/index.html)
+
+- [Robert'S Rules In Plain English 2E](summaries/robertsrulesinplainenglish2e/index.html)
