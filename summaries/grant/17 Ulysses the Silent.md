@@ -1,0 +1,26 @@
+---
+layout: page
+title: 17 Ulysses the Silent
+date: 2023-11-07 02:09:39
+---
+
+[Back](./)
+
+
+In Chapter Seventeen of "Grant" by Ron Chernow, the focus is on General Ulysses S. Grant's rise to becoming the top general of the Union Army and his strategy for the upcoming campaigns against General Robert E. Lee and the Confederate Army. Grant's new command is described as colossal, with over 500,000 battle-ready troops spread across different departments and military corps. Grant's strategy revolves around the idea of attrition, using the North's large population and ability to draft more troops to wear down the Confederacy. He maps out a comprehensive plan that involves capturing both Lee's army in Virginia and Johnston's army in Georgia, and he becomes the supreme commander of all Union armies. Grant plans to engage in continuous hard fighting, focusing on defeating the Confederate armies rather than simply acquiring territory. He aims to keep the enemy's forces scattered and unable to shift troops without jeopardizing another area. Grant sets his sights on Lee's Army of Northern Virginia, which he considers the strongest in the South, and plans to encircle it and cut off its supply lines.
+
+Before Grant became general, the Union's military effort was fragmented and disjointed. Grant aims to create an overarching design that encompassed all Union armies, using modern technology like the telegraph to facilitate centralized decision-making. Grant's strategy is applauded by General William T. Sherman, who calls it "enlightened war." Grant plans to concentrate his forces into two or three large armies to avoid being "whipped in detail." He also seeks to transfer more troops to the field to maximize active duty soldiers and minimize garrisons and protect supply lines.
+
+Grant selects his staff, which includes Horace Porter and Adam Badeau, who both become close confidants and biographers of Grant. Grant's staff of twelve will sustain him through the war and some will follow him to the White House. Grant's focus on staff selection is influenced by his preference for professional soldiers over political generals. Grant believes that political generals, like Benjamin Butler, hinder the Union cause and corrupt the military. He recommends to President Abraham Lincoln that over a hundred generals be fired due to their incompetence or political bias. However, Lincoln, concerned about political support and his own reelection, only fires a few of the generals recommended by Grant. Grant also tries to restore high-ranking generals who were previously sidelined, like George McClellan, Ambrose Burnside, and John Frémont, but they refuse.
+
+As Grant prepares for his spring campaign, he faces the continued threat of assassination. Confederate raider John Singleton Mosby is active in northern Virginia, and Grant narrowly escapes capture by Mosby's irregulars at one point. Grant becomes more ruthless in his pursuit of Mosby, ordering that any of his men caught be hanged without trial. Grant's safety becomes increasingly compromised, and he is reluctant to travel to Washington due to the constant threat in the area.
+
+Grant sets out his campaign plan, which involves a simultaneous advance on five fronts. He and General Meade, commander of the Army of the Potomac, will engage Lee directly in Virginia. General Benjamin Butler will advance on Lee from another direction, while General Franz Sigel destroys Confederate supply lines in the Shenandoah Valley. General Sherman will move through Georgia, taking Atlanta and cutting off vital railways to Lee. Grant also hopes that General Nathaniel Banks will take aim at Mobile. However, Banks is directed to occupy a portion of Texas instead.
+
+The chapter also delves into the personalities and dynamics between Grant and Lee. Grant respects Lee but is not intimidated by him. He believes that Joseph Johnston is the superior general, and his criticisms of Lee grow as the postwar narrative portrays Lee as a strategic genius and Grant as a brute relying on sheer numbers. Lee, on the other hand, speaks highly of George B. McClellan as the best Union general. The contrast between Lee's narrow focus on Virginia and Grant's encompassing strategy is discussed, with Grant's vision set on defeating the entire Confederate army and ending the war.
+
+Grant's visit to Major General Benjamin Butler's headquarters at Fort Monroe is detailed, and their plans for the campaign are discussed. Grant has a favorable first impression of Butler, but there is an underlying awareness of his political ambitions and lack of military education. The issue of black soldiers and prisoner exchanges is also addressed. Grant is outraged by the massacre of black soldiers at Fort Pillow and insists on equal treatment for black and white prisoners. He suspends prisoner exchanges with the Confederacy until black soldiers are treated equally.
+
+The chapter concludes with Grant's readiness to take on Lee and begin the campaign to destroy the Army of Northern Virginia.
+
+Words: 778

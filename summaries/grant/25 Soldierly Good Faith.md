@@ -1,0 +1,28 @@
+---
+layout: page
+title: 25 Soldierly Good Faith
+date: 2023-11-07 02:12:08
+---
+
+[Back](./)
+
+
+In Chapter Twenty-Five of Grant, author Ron Chernow explores Ulysses S. Grant's life during the postwar era and his involvement in the Reconstruction efforts in the United States. The chapter begins by examining Grant's task of contracting the army he had built during the war, as the federal government went from having over a million soldiers to only 210,000 within six months. Grant reluctantly moved to Washington, D.C., where he ran the army and dealt with an endless parade of visitors. Though he initially struggled with the bureaucratic nature of Washington, Grant slowly adapted to the city's ways.
+
+Grant and his wife, Julia, considered living in Philadelphia and commuting to Washington, but ultimately decided to rent a house in Washington. However, the couple faced financial difficulties because the Philadelphia house they had been given as a gift by admirers came with a fully stocked wine cellar, which Julia deemed a temptation that needed to be removed. She quickly sold the wine and got rid of the cellar, relieving any temptation for Grant. The couple moved into their new home in Washington, which was spacious and decorated with war trophies and pictures of prominent figures like George Washington and Abraham Lincoln.
+
+Grant often received gifts from admirers, and while he did not question the generosity, some of his critics saw it as a potential source of corruption, especially as Grant's name circulated as a possible future president. Many businessmen and political figures saw Grant's popularity and hoped to gain favor with him by showering him with gifts. One such gift was a house in Georgetown, Washington, given to Grant by a group of well-heeled New York admirers led by Daniel Butterfield. The house was designated as a gift to Grant's son, but Colonel Dent, Grant's father-in-law, moved into the house, causing tension between him and Grant. Cornel Dent was an unrepentant Southern rebel and clashed with Grant over political issues.
+
+During his time in Washington, Grant gradually became enmeshed in the murky world of politics and Reconstruction. President Andrew Johnson, who succeeded President Lincoln after his assassination, swung between hostility towards the South and leniency in his policies, alienating Grant and many other Union generals who had fought to preserve the Union and end slavery. Grant oscillated between Republican and Democrat views, causing confusion among both parties as they courted him for political support.
+
+One of the major issues Grant faced during this time was the treatment of Confederate General Robert E. Lee and other Confederate officers. There were calls for Lee to be prosecuted for treason, which Grant vehemently opposed. He saw the surrender terms he granted Lee at Appomattox as sacred and felt that Lee had honored the terms of the surrender. Grant clashed with President Johnson over the issue, with Johnson insisting on treason charges while Grant defended his decision and threatened to resign if ordered to arrest Lee. Eventually, Grant prevailed, and Lee was not prosecuted for treason.
+
+Grant's relationship with Johnson continued to deteriorate as the president swung towards favoring white Southerners and opposing black equality and suffrage. Johnson held openly racist views and opposed giving African Americans citizenship and voting rights. Grant recognized Johnson's animus towards African Americans and his desire to win re-election through Southern white Democrats and moderate Northern Republicans. Grant saw through Johnson's attempts to appease Southern whites and restore their power, and he clashed with Johnson over policy issues during Cabinet meetings.
+
+Grant became increasingly involved in the Reconstruction efforts in the South, particularly in dealing with the treatment of freed slaves. He advocated for the protection of their civil liberties, including the right to vote. Grant recognized that a strong federal military presence was necessary to maintain order and protect black rights in the South. He also believed that a strong military force was needed to deal with potential racial conflicts between whites and blacks. Grant's views on Reconstruction and racial equality evolved over time, and he became a staunch supporter of black rights as he witnessed the violence and oppression faced by freed slaves in the South.
+
+In addition to his involvement in Reconstruction, Grant also had his sights set on Mexico. He believed that French occupation of Mexico was an act of war against the United States and feared that it could lead to an alliance between France and the Confederacy during the Civil War. Grant saw it as his mission to liberate Mexico and overthrow the puppet government installed by France. He lobbied President Johnson and Secretary of State Seward for action against Mexico and even proposed sending Union troops to assist Mexican liberals. However, Seward preferred a diplomatic approach, and Grant's plans for military action were not realized.
+
+Throughout this chapter, Chernow explores Grant's rise to fame and his pivotal role in the postwar era. Grant's involvement in Reconstruction and his evolving views on racial equality are examined, providing insight into one of the most tumultuous periods in American history. The chapter highlights Grant's commitment to justice and his attempts to protect the rights of freed slaves, despite the obstacles he faced.
+
+Words: 846
