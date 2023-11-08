@@ -12,7 +12,7 @@ layout: home
       - [Federal Contracting Made Easy, 4th Edition](summaries/federalcontractingmadeeasy4thedition/index.html)
       - [The Inside Guide to the Federal IT Market](summaries/theinsideguidetothefederalitmarket/index.html)
 * ### Computer Science
-      - [GPT-4 and ChatGPT for Apps](summaries/gpt4andchatgptforapps/index.html)
+  - [GPT-4 and ChatGPT for Apps](summaries/gpt4andchatgptforapps/index.html)
 
 * ### Civics
   * #### History
