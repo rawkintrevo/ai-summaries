@@ -11,16 +11,17 @@ layout: home
     * #### Federal Contracting
       - [Federal Contracting Made Easy, 4th Edition](summaries/federalcontractingmadeeasy4thedition/index.html)
       - [The Inside Guide to the Federal IT Market](summaries/theinsideguidetothefederalitmarket/index.html)
-    * #### Computer Science
+* ### Computer Science
       - [GPT-4 and ChatGPT for Apps](summaries/gpt4andchatgptforapps/index.html)
-    * #### Urban Planning
-      - [Carmageddon- How Cars Make Life Worse and What to Do About It](summaries/carmageddonhowcarsmakelifeworseandwhattodoaboutit/index.html)
-      - [Homelessness Is a Housing Problem](summaries/homelessnessisahousingproblem/index.html)
+
 * ### Civics
   * #### History
     - [Grant](summaries/grant/index.html)
   * #### Trolling City Council
     - [Robert'S Rules In Plain English 2E](summaries/robertsrulesinplainenglish2e/index.html)
+  * #### Urban Planning
+      - [Carmageddon- How Cars Make Life Worse and What to Do About It](summaries/carmageddonhowcarsmakelifeworseandwhattodoaboutit/index.html)
+      - [Homelessness Is a Housing Problem](summaries/homelessnessisahousingproblem/index.html)
 
 
 
