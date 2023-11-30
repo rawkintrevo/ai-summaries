@@ -45,22 +45,12 @@ layout: home
   - [Gpt Understands, Too](summaries/gptunderstandstoo/index.html)
   - [Llm Int8()- 8-Bit Matrix Multiplication](summaries/llmint88bitmatrixmultiplication/index.html)
   - [Few-Shot Parameter-Efficient Fine-Tuning Is Better](summaries/fewshotparameterefficientfinetuningisbetter/index.html)
-
+* #### Evaluation
+  - [A Survey On Evaluation Of Large Language Models](summaries/asurveyonevaluationoflargelanguagemodels/index.html)
+  - [Evaluating Large Language Models A Comprehensive Survey](summaries/evaluatinglargelanguagemodelsacomprehensivesurvey/index.html)
 
 
 ## Other
 
 
 
-
-
-
-- [A Survey On Evaluation Of Large Language Models](summaries/asurveyonevaluationoflargelanguagemodels/index.html)
-
-- [Evaluating Large Language Models A Comprehensive Survey](summaries/evaluatinglargelanguagemodelsacomprehensivesurvey/index.html)
-
-- [Evaluating Large Language Models A Comprehensive Survey](summaries/evaluatinglargelanguagemodelsacomprehensivesurvey/index.html)
-
-- [Evaluating Large Language Models A Comprehensive Survey](summaries/evaluatinglargelanguagemodelsacomprehensivesurvey/index.html)
-
-- [A Survey On Evaluation Of Large Language Models](summaries/asurveyonevaluationoflargelanguagemodels/index.html)
