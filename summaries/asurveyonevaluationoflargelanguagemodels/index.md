@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Survey On Evaluation Of Large Language Models
-date: 2023-11-30 21:22:33
+date: 2023-11-30 21:37:41
 ---
 
 [Source](https://arxiv.org/abs/2307.03109)
