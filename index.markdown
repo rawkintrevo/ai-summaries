@@ -25,7 +25,7 @@ layout: home
 
 
 
-# Journal Aricles
+# Journal Articles
 
 * ### Quantum Physics
   - [Quantum generative adversarial learning in photonics](summaries/quantumgenerativeadversariallearninginphotonics/index.html)
