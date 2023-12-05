@@ -56,3 +56,5 @@ layout: home
 
 
 - [Measuring The Effects Of Data Parallelism On Neural Network Training](summaries/measuringtheeffectsofdataparallelismonneuralnetworktraining/index.html)
+
+- [Fedpara Low-Rank Hadamard Product For Communication-Efficient Federated Learning](summaries/fedparalowrankhadamardproductforcommunicationefficientfederatedlearning/index.html)
