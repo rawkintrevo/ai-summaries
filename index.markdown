@@ -54,3 +54,5 @@ layout: home
 
 
 
+
+- [Measuring The Effects Of Data Parallelism On Neural Network Training](summaries/measuringtheeffectsofdataparallelismonneuralnetworktraining/index.html)
