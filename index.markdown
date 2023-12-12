@@ -64,3 +64,5 @@ layout: home
 - [Nature'S Metropolis - Chicago And The Great West](summaries/naturesmetropolischicagoandthegreatwest/index.html)
 
 - [The Complete Guide To Investing In Real Estate Tax Liens & Deeds](summaries/thecompleteguidetoinvestinginrealestatetaxliensdeeds/index.html)
+
+- [The Complete Guide To Investing In Real Estate Tax Liens & Deeds](summaries/thecompleteguidetoinvestinginrealestatetaxliensdeeds/index.html)

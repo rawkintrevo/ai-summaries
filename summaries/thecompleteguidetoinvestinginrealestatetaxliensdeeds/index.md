@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Complete Guide To Investing In Real Estate Tax Liens & Deeds
-date: 2023-12-12 03:37:02
+date: 2023-12-12 03:52:38
 ---
 
 [Source](https://www.amazon.com/gp/product/B00B2RYQR8/)
