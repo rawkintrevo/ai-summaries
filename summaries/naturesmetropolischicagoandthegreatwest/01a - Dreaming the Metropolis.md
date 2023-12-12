@@ -1,0 +1,24 @@
+---
+layout: page
+title: 01a - Dreaming the Metropolis
+date: 2023-12-12 02:14:48
+---
+
+[Back](./)
+
+
+Before the city of Chicago existed, there was only land. The area at the mouth of the river where Chicago would later be built was home to small human settlements, but there was no distinction between urban and rural. The region was known for its wild garlic plants, which gave Chicago its name- Chigagou, meaning "the wild-garlic place." The natural feature that defined Chicago's location was the Chicago River, which provided a sheltered spot for vessels seeking a harbor. The river marked a boundary between open and flowing waters, and it was also a passage into the interior. About a mile from the mouth of the river, two prairie streams converged to form the main channel, and this location marked the separation of two major watersheds in North America. The glaciers that formed during the Ice Age carved new routes for major watercourses, including the Chicago, Wisconsin, and Mississippi rivers. 
+
+The climate gradually warmed after the glaciers retreated, and different communities of plants and animals migrated northward into the region. Chicago stood in the borderland between the western prairies and eastern oak-hickory forests, with access to both grasslands and forests. The region was rich in resources, thanks to the glaciers and the diverse ecosystems that developed after their retreat. The land around Chicago was marked by natural boundaries and patterns, including soils, watersheds, and vegetation. But the significance of these patterns only emerged when people began to inhabit the land and give meaning to its features. The city's history began when people started dreaming of a metropolitan future for Chicago in the midst of a cityless landscape.
+
+In 1833, the dream of Chicago's metropolitan future was cast over the wide territory of the Great West. The region reached from the Great Lakes to the Rocky Mountains and was blessed with fertile lands and abundant resources. Chicago grew rapidly after the Black Hawk War in 1832, attracting immigrants and investors who hoped to profit from the city's future growth. The city's real estate became highly valued, and speculators dreamed of a metropolis that would connect the Great West to the rest of the world. Chicago's fate was closely tied to the construction of a canal linking Lake Michigan to the Illinois River, which would make the city the terminus of a major trade route.
+
+However, the city's rise to prominence required a conquest of the land and the displacement of its indigenous inhabitants. The Potawatomi Indians who lived in the region were forced to cede their land through a series of treaties. The treaties were clouded with scandal due to the large sums of money allotted to Indian agents and traders involved in the transactions. The Potawatomi people were eventually forced to move from their homelands to new homes on the other side of the Mississippi River.
+
+The collapse of the land speculation boom in 1837 slowed Chicago's growth, but the city struggled to adapt and survive. It continued to serve as a trade center for the surrounding region, and its population gradually increased. By the late 19th century, Chicago had fulfilled the dreams of its early speculators and had become the greatest metropolis in the continent's interior.
+
+The growth of Chicago and other western cities was not a result of natural progress or social evolution, as proposed by the frontier thesis of Frederick Jackson Turner. Instead, it was driven by the visions and dreams of speculators and boosters who saw cities as the keys to the Great West. These boosters believed that cities grew because of their natural advantages, including resources, transportation routes, and global climatic forces. They saw cities as natural organisms that followed the laws of nature and grew in tandem with the increasing size and density of regional population. The growth of cities was also influenced by demographic trends and the gravitational pull of urban centers. The boosters believed that the future metropolis of the Great West would be located near the center of population and would have access to abundant resources and efficient transportation routes.
+
+In conclusion, the history of Chicago and its growth as a metropolis was shaped by the natural features of the land, the dreams and visions of speculators and boosters, and the displacement of indigenous communities. The city's development was not a result of natural progress or social evolution, but rather the result of human imagination and a desire for economic growth and prosperity. Chicago's rise to prominence was intertwined with the history of the Great West and its expansion across the continent.
+
+Words: 751
