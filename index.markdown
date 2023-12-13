@@ -17,6 +17,8 @@ layout: home
 * ### Civics
   * #### History
     - [Grant](summaries/grant/index.html)
+    - [Nature'S Metropolis - Chicago And The Great West](summaries/naturesmetropolischicagoandthegreatwest/index.html)
+
   * #### Trolling City Council
     - [Robert'S Rules In Plain English 2E](summaries/robertsrulesinplainenglish2e/index.html)
   * #### Urban Planning
@@ -52,18 +54,9 @@ layout: home
 
 ## Other
 
-
-
-
 - [Measuring The Effects Of Data Parallelism On Neural Network Training](summaries/measuringtheeffectsofdataparallelismonneuralnetworktraining/index.html)
 
 - [Fedpara Low-Rank Hadamard Product For Communication-Efficient Federated Learning](summaries/fedparalowrankhadamardproductforcommunicationefficientfederatedlearning/index.html)
-
-- [Nature'S Metropolis - Chicago And The Great West](summaries/naturesmetropolischicagoandthegreatwest/index.html)
-
-- [Nature'S Metropolis - Chicago And The Great West](summaries/naturesmetropolischicagoandthegreatwest/index.html)
-
-- [The Complete Guide To Investing In Real Estate Tax Liens & Deeds](summaries/thecompleteguidetoinvestinginrealestatetaxliensdeeds/index.html)
 
 - [The Complete Guide To Investing In Real Estate Tax Liens & Deeds](summaries/thecompleteguidetoinvestinginrealestatetaxliensdeeds/index.html)
 
