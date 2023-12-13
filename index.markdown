@@ -61,3 +61,5 @@ layout: home
 - [The Complete Guide To Investing In Real Estate Tax Liens & Deeds](summaries/thecompleteguidetoinvestinginrealestatetaxliensdeeds/index.html)
 
 - [Open Source For The Enterprise](summaries/opensourcefortheenterprise/index.html)
+
+- [Purple Llama Cyberseceval](summaries/purplellamacyberseceval/index.html)
