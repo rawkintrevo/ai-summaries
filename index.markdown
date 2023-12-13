@@ -65,3 +65,5 @@ layout: home
 - [Purple Llama Cyberseceval](summaries/purplellamacyberseceval/index.html)
 
 - [Purple Llama Cyberseceval](summaries/purplellamacyberseceval/index.html)
+
+- [Retrieval-Augmented Generation For Knowledge-Intensive Nlp Tasks](summaries/retrievalaugmentedgenerationforknowledgeintensivenlptasks/index.html)
