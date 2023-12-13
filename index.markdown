@@ -63,3 +63,5 @@ layout: home
 - [Open Source For The Enterprise](summaries/opensourcefortheenterprise/index.html)
 
 - [Purple Llama Cyberseceval](summaries/purplellamacyberseceval/index.html)
+
+- [Purple Llama Cyberseceval](summaries/purplellamacyberseceval/index.html)
