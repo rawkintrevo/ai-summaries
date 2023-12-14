@@ -69,3 +69,5 @@ layout: home
 - [Retrieval-Augmented Generation For Knowledge-Intensive Nlp Tasks](summaries/retrievalaugmentedgenerationforknowledgeintensivenlptasks/index.html)
 
 - [Bitnet- Scaling 1-Bit Transformers For Large Language Models](summaries/bitnetscaling1bittransformersforlargelanguagemodels/index.html)
+
+- [An Elegant Puzzle_ Systems Of Engineering Management](summaries/anelegantpuzzlesystemsofengineeringmanagement/index.html)
