@@ -70,3 +70,5 @@ layout: home
 
 
 
+
+- [The Aristocracy Of Talent How Meritocracy Made The Modern World](summaries/thearistocracyoftalenthowmeritocracymadethemodernworld/index.html)

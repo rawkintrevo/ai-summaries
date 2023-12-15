@@ -1,0 +1,13 @@
+---
+layout: page
+title: 6 - The Chosen People
+date: 2023-12-15 17:32:20
+---
+
+[Back](./)
+
+
+The intellectual achievements of the Jewish people are remarkable. Despite making up only one third of 1% of the world's population, they have produced intellectual giants such as Marx, Freud, and Einstein. In the first half of the twentieth century, Jews won 14% of Nobel prizes in literature, chemistry, physics, and medicine/physiology, and that proportion rose to 29% in the second half. Jews have been over-represented in the knowledge professions in various societies, such as America, where 53% of American Jews held professional jobs compared to 20% of white non-Jewish men. Jews also won 51% of Pulitzer prizes for non-fiction. Similar disparities can be seen in Communist Russia, where Jews made up a significant minority of members in prominent intellectual organizations. Both philosemites and antisemites have recognized Jewish success, with the fear of Jewish success driving antisemitism and the acknowledgment of Jewish intellectual superiority by philosemites. The author argues that Jewish intellectual success is linked to their sense of themselves as a chosen people with a unique relationship with God, which has given them the self-confidence to succeed and has driven them to make intellectual breakthroughs. Additionally, the Jewish people played a prominent role in developing the meritocratic idea. Although they did not develop the idea in the narrow sense of selecting people for positions based on their intellectual powers, they emphasized intellectual success as a way of securing the survival of the group. Jewish society also provided an environment that favored intellectual achievement, with a strong emphasis on education, particularly in the study of the Torah. The destruction of the Second Temple in AD 70 shifted Judaism's focus from the priesthood to rabbis and scholars, making education a vital aspect of the faith. Emancipation in the 18th century further fueled Jewish intellectual success by exposing them to a wider world of ideas and opportunities. Other wandering peoples, such as the Parsis and the overseas Chinese, have also made significant contributions to intellectual and economic development due to their rootlessness and focus on intellectual resources. However, Jewish intellectual success may be imperiled in the future as resentment against inequality and globalization grows.
+
+
+Words: 352
