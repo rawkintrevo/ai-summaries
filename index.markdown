@@ -76,3 +76,5 @@ layout: home
 - [The Healthy Mind Toolkit Simple Strategies To Get Out Of Your Own Way And Enjoy Your Life](summaries/thehealthymindtoolkitsimplestrategiestogetoutofyourownwayandenjoyyourlife/index.html)
 
 - [The Book You Wish Your Parents Had Read](summaries/thebookyouwishyourparentshadread/index.html)
+
+- [The Book You Wish Your Parents Had Read](summaries/thebookyouwishyourparentshadread/index.html)
