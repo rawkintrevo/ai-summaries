@@ -74,3 +74,5 @@ layout: home
 - [The Aristocracy Of Talent How Meritocracy Made The Modern World](summaries/thearistocracyoftalenthowmeritocracymadethemodernworld/index.html)
 
 - [The Healthy Mind Toolkit Simple Strategies To Get Out Of Your Own Way And Enjoy Your Life](summaries/thehealthymindtoolkitsimplestrategiestogetoutofyourownwayandenjoyyourlife/index.html)
+
+- [The Book You Wish Your Parents Had Read](summaries/thebookyouwishyourparentshadread/index.html)
