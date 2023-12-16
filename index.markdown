@@ -22,6 +22,8 @@ layout: home
   * #### History
     - [Grant](summaries/grant/index.html)
     - [Nature'S Metropolis - Chicago And The Great West](summaries/naturesmetropolischicagoandthegreatwest/index.html)
+    - [The Aristocracy Of Talent How Meritocracy Made The Modern World](summaries/thearistocracyoftalenthowmeritocracymadethemodernworld/index.html)
+
 
   * #### Trolling City Council
     - [Robert'S Rules In Plain English 2E](summaries/robertsrulesinplainenglish2e/index.html)
@@ -68,13 +70,7 @@ layout: home
 
 - [The Complete Guide To Investing In Real Estate Tax Liens & Deeds](summaries/thecompleteguidetoinvestinginrealestatetaxliensdeeds/index.html)
 
-
-
-
-- [The Aristocracy Of Talent How Meritocracy Made The Modern World](summaries/thearistocracyoftalenthowmeritocracymadethemodernworld/index.html)
-
 - [The Healthy Mind Toolkit Simple Strategies To Get Out Of Your Own Way And Enjoy Your Life](summaries/thehealthymindtoolkitsimplestrategiestogetoutofyourownwayandenjoyyourlife/index.html)
 
-- [The Book You Wish Your Parents Had Read](summaries/thebookyouwishyourparentshadread/index.html)
 
 - [The Book You Wish Your Parents Had Read](summaries/thebookyouwishyourparentshadread/index.html)
