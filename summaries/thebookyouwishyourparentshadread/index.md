@@ -10,8 +10,8 @@ date: 2023-12-16 15:34:40
 
 ## Parts
 * [PART ONE](PART ONE.html)
-* [PART THREE](PART THREE.html)
 * [PART TWO](PART TWO.html)
+* [PART THREE](PART THREE.html)
 * [PART FOUR](PART FOUR.html)
 * [PART FIVE](PART FIVE.html)
 * [PART SIX-a](PART SIX-a.html)
