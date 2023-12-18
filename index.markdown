@@ -80,3 +80,5 @@ layout: home
 - [Quantum Neural Networks Concepts, Applications, And Challenges](summaries/quantumneuralnetworksconceptsapplicationsandchallenges/index.html)
 
 - [Training Deep Quantum Neural Networks](summaries/trainingdeepquantumneuralnetworks/index.html)
+
+- [The Power Of Quantum Neural Networks](summaries/thepowerofquantumneuralnetworks/index.html)
