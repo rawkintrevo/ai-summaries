@@ -32,6 +32,10 @@ layout: home
 * ### Self Improvement
    * #### Mental Health
       - [The Healthy Mind Toolkit Simple Strategies To Get Out Of Your Own Way And Enjoy Your Life](summaries/thehealthymindtoolkitsimplestrategiestogetoutofyourownwayandenjoyyourlife/index.html)
+   * #### Parenting
+      - [The Book You Wish Your Parents Had Read](summaries/thebookyouwishyourparentshadread/index.html)
+   * #### Physical
+      - [Lifespan Why We Age—And Why We Don'T Have To](summaries/lifespanwhyweageandwhywedonthaveto/index.html)
 
 
 
@@ -77,7 +81,3 @@ layout: home
 ## Other
 
 - [The Complete Guide To Investing In Real Estate Tax Liens & Deeds](summaries/thecompleteguidetoinvestinginrealestatetaxliensdeeds/index.html)
-
-- [The Book You Wish Your Parents Had Read](summaries/thebookyouwishyourparentshadread/index.html)
-
-- [Lifespan Why We Age—And Why We Don'T Have To](summaries/lifespanwhyweageandwhywedonthaveto/index.html)
