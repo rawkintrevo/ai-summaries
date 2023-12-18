@@ -78,3 +78,5 @@ layout: home
 - [Lifespan Why We Age—And Why We Don'T Have To](summaries/lifespanwhyweageandwhywedonthaveto/index.html)
 
 - [Quantum Neural Networks Concepts, Applications, And Challenges](summaries/quantumneuralnetworksconceptsapplicationsandchallenges/index.html)
+
+- [Training Deep Quantum Neural Networks](summaries/trainingdeepquantumneuralnetworks/index.html)
