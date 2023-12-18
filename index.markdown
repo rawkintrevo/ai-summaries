@@ -76,3 +76,5 @@ layout: home
 - [The Book You Wish Your Parents Had Read](summaries/thebookyouwishyourparentshadread/index.html)
 
 - [Lifespan Why We Age—And Why We Don'T Have To](summaries/lifespanwhyweageandwhywedonthaveto/index.html)
+
+- [Quantum Neural Networks Concepts, Applications, And Challenges](summaries/quantumneuralnetworksconceptsapplicationsandchallenges/index.html)
