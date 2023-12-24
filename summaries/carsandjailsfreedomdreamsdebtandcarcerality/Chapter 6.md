@@ -1,0 +1,12 @@
+---
+layout: page
+title: Chapter 6
+date: 2023-12-24 02:21:10
+---
+
+[Back](./)
+
+
+In Chapter 6 of the document, the focus is on how surveillance and data extraction intersect with the subprime loan system and the car industry. The chapter begins by discussing the increasing technological features in cars, turning them into mobile computers and key nodes in the culture of hyper-surveillance and data extraction. The data-driven policies in commerce, education, and governance are often promoted as objective and unbiased, but they can further perpetuate the violence of credit and carceral systems. The chapter then delves into the experiences of individuals who have been incarcerated and returned to a world of rapid technological advancements. The chapter highlights how car repair now requires expensive software packages and knowledge, and even superficial changes like rear cameras and GPS systems contribute to the surveillance and data extraction of drivers. The chapter explores the racialized history of road surveillance, with instances of police targeting Black motorists and women feeling stalked by police cars. The chapter also discusses how license suspension and revocation can be used as tools to discipline drivers for financial behavior, compounding the criminalization and profit from poverty. The chapter goes on to explore how surveillance systems like automated license plate readers and facial recognition software are used to track and control populations while also extracting wealth through revenue policing. The chapter mentions how ALPR data is prone to errors and privacy concerns, and how police departments and private vendors profit from the technology. The chapter also touches on the role of credit reporting agencies and credit scores in perpetuating surveillance capitalism and predatory lending. It describes how credit scores are used for character assessment in various sectors of life, and how individuals with limited credit history, like former prisoners, can be targeted for predatory loans. The chapter concludes with a personal example of someone caught in the subprime loan system and the constant surveillance and financial burden they face. Overall, the chapter highlights the ways in which surveillance, data extraction, and the subprime loan industry intersect to perpetuate systems of control and profit off of marginalized individuals.
+
+Words: 343
