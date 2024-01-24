@@ -1,0 +1,16 @@
+---
+layout: page
+title: Chapter 2- The ABC's of Ease
+date: 2024-01-24 21:05:19
+---
+
+[Back](./)
+
+
+The article begins by emphasizing the importance of numbers and calculations in our everyday life. It states that without numbers, risk becomes a matter of gut feeling rather than dealing with it through odds and probabilities. The author then delves into the history of numbers, starting with the book "Liber Abaci" written by Fibonacci in 1202. Fibonacci, also known as Leonardo Pisano, was introduced to the Hindu-Arabic numbering system while visiting Bugia, an Algerian city. He set out to learn everything he could about this new system and wrote "Liber Abaci" to introduce it to the Western world. The book received endorsement from the Holy Roman Emperor, Frederick II, and attracted a following among mathematicians. It not only taught people how to read and write with the new numerals but also showcased practical applications in commercial bookkeeping, such as calculating profit margins and interest payments.
+Frederick II, known for his interest in science and the arts, was fascinated by "Liber Abaci" and invited Fibonacci to solve algebraic problems during a meeting. This prompted Fibonacci to write another book called "Liber Quadratorum" dedicated to the Emperor. Fibonacci's most famous contribution, however, is the Fibonacci sequence. He discovered that starting with a pair of rabbits, each month they produced a number of offspring equal to the sum of the previous two months' offspring. This sequence (1, 1, 2, 3, 5, 8, 13, etc.) became known as the Fibonacci sequence and is not only a source of amusement but also has mathematical applications and appears in nature.
+The article then discusses the development of numbering systems before the Hindu-Arabic system. It mentions the Neanderthals' use of tally marks and how the Greeks and Egyptians had numerical systems based on their alphabets. However, these systems had limitations and were not as efficient as the Hindu-Arabic system. The article also emphasizes the Greek approach to mathematics, which prioritized proof and questioning rather than accepting rules of thumb without explanation.
+The Hindu-Arabic numbering system, which introduced the concept of zero, was developed around 500 AD. The Arabs played a significant role in popularizing these new numbers, and the invention of printing in the 15th century helped overcome resistance to their use. The article notes that the new numbering system faced opposition due to its potential for fraud, as altering numbers became easier. However, with the advent of printing, the system became widely adopted and led to advancements in commerce and mathematics.
+The article concludes by mentioning the contributions of other mathematicians, such as al-Khowârizmî and Omar Khayyam, who further developed the language of calculation and algebra using the Hindu-Arabic system. It suggests that the slow acceptance of risk management techniques was due to societal views at the time, as they were still more fatalistic and believed in the influence of gods and fate.
+
+Words: 467
