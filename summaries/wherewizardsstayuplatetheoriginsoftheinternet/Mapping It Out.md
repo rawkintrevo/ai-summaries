@@ -1,26 +1,28 @@
 ---
 layout: page
 title: Mapping It Out
-date: 2024-01-24 18:49:29
+date: 2024-01-24 20:18:16
 ---
 
 [Back](./)
 
 
-In December 1966, Larry Roberts arrived at the Pentagon without any knowledge of Donald Davies' work in packet switching or Paul Baran. Roberts had previously attended a conference in 1964 where he decided to work on communications between computers. In 1965, Roberts oversaw an experiment to connect the TX-2 computer to the SDC Q-32 using a special Western Union four-wire full-duplex service. The experiment allowed the machines to send messages to each other. However, the results were mixed with reliability and response time issues.
+The document describes the early development stages of the ARPANET, the precursor to the internet, and the key individuals involved. It starts by introducing Larry Roberts and his arrival at the Pentagon in 1966. Roberts had previously met Donald Davies in London, but was unaware of Davies' work in packet switching. Roberts was also not familiar with Paul Baran. Roberts had been inspired to work on computer networks after attending a conference in 1964 where the potential of computer networks was discussed. His first opportunity to experiment with connecting computers came in 1965 when he oversaw a project to connect Lincoln's TX-2 computer to the SDC Q-32 in Santa Monica. The experiment had mixed results, with reliable connection and response time being major challenges.
 
-Roberts realized that bringing together different computers was challenging, especially for the project he was working on at ARPA. He had a wide circle of colleagues, one of whom was Leonard Kleinrock. Kleinrock had influenced Roberts in his early thinking about computer networks and had worked on the theoretical models of communication networks. Roberts gave Kleinrock a contract to set up the Network Measurement Center at UCLA.
+Roberts then begins to assemble a team to tackle the larger task of interconnecting a matrix of computers. One of his colleagues, Leonard Kleinrock, becomes a key influence in Roberts' early thinking about computer networks. Kleinrock had published research on analytical models of communication networks and had insights on data flow and message routing. Roberts also forms a friendship with Kleinrock and they share interests in brain teasers and casino gambling.
 
-Roberts and Kleinrock were also friends outside of work and were inveterate casino gamblers. They developed schemes for blackjack counting and even tried to predict the outcome of roulette using a small machine they built. However, their plans were cut short when they started winning and drew attention from casino detectives.
+The document then describes a meeting in Ann Arbor, Michigan, where Roberts presents his initial plan for the network. The idea is not well-received, with many principal investigators expressing skepticism and resistance to the idea of sharing resources with other institutions.
 
-Roberts recognized the need for a fast response time for the upcoming network. He wanted to avoid the sluggishness of existing time-sharing systems. At a meeting of ARPA's principal investigators, Roberts proposed connecting all time-sharing computers directly over dial-up telephone lines. However, there was little enthusiasm for this idea. Wes Clark suggested inserting a small computer, called an Interface Message Processor (IMP), between each host computer and the network. This idea received more positive feedback and Roberts decided to send out a request for proposals to build the IMP.
+During the meeting, Wes Clark passes a note to Roberts suggesting that the network should be built with a subnet of small, identical nodes that handle the routing. This idea resonates with Roberts and he discusses it further with Clark. Clark recommends Frank Heart as the person who could build the subnet. Heart had expertise in real-time systems and was known for his meticulous engineering. Roberts decides to send out a request for proposals for building the Interface Message Processors (IMPs) that would form the subnet.
 
-Roberts was introduced to the work of Donald Davies through a paper presented by Roger Scantlebury at a conference in Gatlinburg. Davies and Scantlebury's work on packet switching influenced Roberts' design of the network. Roberts also learned about Paul Baran's work at RAND from Scantlebury and later consulted him during the design of the network.
+Roberts also learns about the work of Donald Davies and Paul Baran during the conference. Davies and his team at the National Physical Laboratory had been working on a packet-switched network design, and Baran had done similar work at RAND. Roberts studies their research and consults with Baran on the design of the network.
 
-Roberts finalized the requirements for the network and released a request for proposals. IBM and Control Data Corporation declined to bid, claiming that the network could never be built. Roberts considered using the PDP-8 minicomputer from Digital Equipment Corp, but most of the bids proposed using the Honeywell DDP-516 minicomputer.
+Roberts later presents a paper on the ARPA net at a conference in Gatlinburg, Tennessee, where he receives positive feedback. He also learns from Roger Scantlebury about the faster line speeds that Davies and Scantlebury were planning to use in their network. This information influences Roberts' design decisions.
 
-After receiving over a dozen bids, Roberts entered into final negotiations with Raytheon, a major defense contractor. However, just before Christmas, ARPA announced that the contract to build the Interface Message Processors (IMPs) was awarded to Bolt Beranek and Newman (BBN), a small consulting firm in Cambridge, Massachusetts.
+Roberts then drafts a request for proposals and sends it out to 140 companies. IBM and Control Data Corporation decline to bid, stating that there are no cost-effective computers small enough to make the network feasible. Roberts considers using the PDP-8, a mini-computer made by Digital Equipment Corporation, but most of the bidders prefer the Honeywell DDP-516 mini-computer.
 
-Overall, Larry Roberts played a crucial role in the development and design of the early computer network, overseeing experiments, and making key decisions. His collaboration with colleagues like Leonard Kleinrock and Wes Clark, as well as the influence of researchers like Donald Davies and Paul Baran, contributed to the evolution of computer networking.
+After evaluating the bids, Roberts enters into final negotiations with Raytheon to build the IMPs. However, just before Christmas, ARPA announces that the contract has been awarded to Bolt Beranek and Newman, a small consulting firm in Cambridge, Massachusetts.
 
-Words: 497
+The document ends with the completion of the IMP contract negotiation, implying that the next steps in the ARPANET development process will be covered in the following sections.
+
+Words: 549

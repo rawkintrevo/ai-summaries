@@ -1,22 +1,12 @@
 ---
 layout: page
 title: A Research Haven
-date: 2024-01-24 18:48:52
+date: 2024-01-24 20:17:38
 ---
 
 [Back](./)
 
 
-The document highlights the origins and early history of the Defense Advanced Research Projects Agency (ARPA). The agency was established by President Dwight Eisenhower in response to the Soviet launch of the Sputnik satellite in 1957. ARPA was intended to be a fast-response research agency closely tied to the president and secretary of defense, in order to prevent future technological surprises.
+The document describes the history and founding of the Advanced Research Projects Agency (ARPA), which was established by President Eisenhower in response to the Soviet launch of the first Sputnik satellite in 1957. The agency was created to support academic research and prevent technological surprises. The document introduces Neil McElroy, a former soap salesman who was appointed as Secretary of Defense by Eisenhower. McElroy was not a scientist or soldier, but he recognized the importance of scientific research and was committed to advancing technology. The document explains how McElroy visited the Redstone Arsenal, home of the Army's rocket program, and learned about the Soviet launch of Sputnik while talking to Wernher von Braun, the father of modern rocketry. This event marked a turning point in American history, as it challenged the nation's confidence and ignited fear and despair. President Eisenhower was determined to address the issue and called on his science advisors for their expertise. He appointed James R. Killian Jr., president of MIT, as his science advisor. The document highlights Eisenhower's appreciation for the scientific community and his desire to have a single high-level science advisor to assist him with technology decisions. The document also discusses how the Soviet launch of Sputnik prompted discussions about the establishment of an independent agency for research. McElroy and Killian began discussing the idea of creating ARPA, which would be responsible for advanced research projects. The document outlines how ARPA was initially met with resistance from the military, as they believed the agency would infringe on their territory. However, Eisenhower supported the creation of ARPA and emphasized the need for civilian control of military research. In early 1958, ARPA was officially established, with Roy Johnson serving as its first director. The document explains how ARPA's mission changed over time, shifting its focus to basic research and high-risk projects. The agency attracted top talent from universities and research laboratories, and it became known for its freewheeling, open approach to research. The document concludes by highlighting the important role that ARPA played in advancing military science and technology during the Cold War era.
 
-The document introduces Neil McElroy, a soap salesman who became the secretary of defense and played a key role in the establishment of ARPA. McElroy, who had no military experience, saw the agency as a way to centralize and manage research and development programs, reducing the intense rivalries among branches of the military.
-
-The document describes the panic and fear that spread across America after the launch of Sputnik, with many people believing that the Soviet Union posed a significant threat to national security. President Eisenhower, who had a deep appreciation for the scientific community, held meetings with prominent scientists to discuss the impact of Sputnik and to seek their advice. He appointed James R. Killian Jr., the president of MIT, as his science advisor, who would later play a key role in the creation of ARPA.
-
-ARPA was officially established in 1958, with Roy Johnson, a businessman, as its first director. However, the agency initially struggled to find its purpose and faced opposition from the military, as it encroached on their territory. The document explains how ARPA underwent a transformation, shifting its focus to basic research and becoming a champion for high-risk, high-gain projects. This new direction was supported by the scientific community and aligned with the changing attitudes towards science and technology in Washington.
-
-The document describes the appointment of Jack P. Ruina as the second director of ARPA in 1961. Ruina brought a relaxed management style and decentralized structure to the agency, prioritizing finding talented individuals and giving program directors freedom to pursue their projects. Under Ruina's leadership, ARPA's budget increased and it embarked on projects related to ballistic missile defense and nuclear test detection.
-
-Overall, the document provides a detailed account of the early days of ARPA and its evolution from a response to the Sputnik crisis into a champion of high-risk, high-gain research. It highlights the key figures involved in the creation of the agency and the challenges they faced in establishing its purpose and securing support.
-
-Words: 393
+Words: 348

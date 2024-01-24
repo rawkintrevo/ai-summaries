@@ -1,24 +1,26 @@
 ---
 layout: page
 title: IMP Number 0
-date: 2024-01-24 18:50:20
+date: 2024-01-24 20:19:05
 ---
 
 [Back](./)
 
 
-In this passage, we are introduced to the first prototype of the IMP (Interface Message Processor), a refrigerator-sized computer built by Honeywell for BBN (Bolt, Beranek and Newman) under an ARPA (Advanced Research Projects Agency) contract. The machine is brought into a room at BBN called the IMP room, where 22-year-old Ben Barker, a hardware engineer, is responsible for setting up and debugging it. However, when Barker tries to load the first diagnostic program onto the machine, he realizes that nothing is working. The prototype IMP is a failure.
+The document follows the story of the development of the first IMP (Interface Message Processor), a refrigerator-sized computer built by Honeywell to BBN's specifications. The first IMP, known as IMP Number 0, was delivered to BBN's systems division building to be tested in the IMP room. Ben Barker, a young hardware engineer, was responsible for setting up and debugging the IMP.
 
-The relationship between BBN and Honeywell was previously friendly, but now BBN's hardware chief, Ornstein, begins to question Honeywell's understanding of the BBN-designed interfaces. It turns out that Honeywell did not fully grasp the details of the interface drawings and had not developed any diagnostics to test the design. BBN had assumed that Honeywell's expertise with its own machines would ensure a successful implementation of their modifications, but this was not the case.
+However, when Barker tried to load the first diagnostic program into the IMP, he encountered numerous problems. It became clear that Honeywell did not understand BBN's interface design and had not developed any diagnostics to test the design. This lack of understanding and testing led to the machine being non-functional. Barker, with the help of BBN's hardware chief, had to figure out how to make the IMP work as intended.
 
-Barker is now faced with the daunting task of debugging the machine. He spends sixteen hours a day working on it, using an oscilloscope and wire-wrap tools to rewire the circuitry of the computer. Barker's hands have a slight palsy, which makes the process more challenging. He works meticulously to ensure that the wires are connected correctly. The prototype IMP requires months of debugging, and the pressure is on because BBN needs to deliver a working version of the modified Honeywell 516 to UCLA soon.
+BBN had a close working relationship with Honeywell, who dedicated a special systems crew to work on the BBN contract. Unlike other computer manufacturers, Honeywell was willing to cater to BBN's special demands for the IMP project. However, their lack of familiarity with BBN's design resulted in the failure of the prototype IMP.
 
-Meanwhile, BBN is working on additional measures to protect the IMPs, such as developing remote diagnostic tools and debugging capabilities. They want to be able to monitor and maintain the network from a central operations center, collecting data and diagnosing problems. This will become crucial as the network grows and changes.
+Barker spent months debugging the machine, working 16 hours a day. He had a slight palsy in his hands, which made the delicate process of re-wiring the IMP even more challenging. Despite the setbacks, BBN's hardware team continued to work on improving the design and relaying the necessary corrections to Honeywell.
 
-The programming team, consisting of Crowther, Walden, and Cosell, faces their own challenges in designing a flexible routing system for the IMPs, allowing packets to automatically flow around troubled nodes and links. Crowther comes up with a brilliant and minimalistic dynamic-routing algorithm that impresses his colleagues. However, Kahn, another member of the team, expresses concerns about flow control and potential congestion issues. Kahn predicts deadlock scenarios and believes that the network could become overloaded. He suggests using simulations to test the network, but Heart, the leader of the project, is against it, preferring to focus on writing operational code.
+Meanwhile, BBN's programming team faced their own challenges. They were tasked with designing a dynamic routing system that would allow packets to flow around troubled nodes and links, rather than being held up. Will Crowther, one of the top programmers in the world, came up with a simple and effective dynamic-routing algorithm.
 
-As summer progresses, BBN is still waiting for Honeywell to deliver the first production IMP with the debugged interfaces. The programming team decides to use a lower-grade development machine with a simulation program in the meantime, but they prefer to test the software on the real machine. Time is running out as the scheduled delivery of the IMP to California approaches, and BBN's reputation is at stake.
+However, Bob Kahn, another key member of the team, had concerns about the flow control system implemented by Crowther. He believed that it could lead to deadlock and loss of packets in certain network conditions. Kahn and Crowther debated the issue, with Kahn pushing for simulations and visualizations to better understand the problems. However, the rest of the team believed that simulations would not help solve the real-world challenges they were facing.
 
-Overall, this passage highlights the challenges and setbacks faced by BBN in the development of the IMP. It emphasizes the importance of debugging and testing, as well as the collaboration and disagreements within the team. The passage also touches on the need for remote monitoring and the debates around flow control and congestion issues.
+As summer approached, BBN faced another problem - the delayed delivery of the first production IMP from Honeywell. The programming team had started using a simulation program on a lower-grade development machine, but testing on the actual machine was preferred. With the scheduled delivery to California only a few weeks away, the pressure was on BBN to receive the production IMP and debug it in time.
 
-Words: 518
+In conclusion, the document highlights the challenges faced by BBN in the development of the first IMP. It showcases the issues with Honeywell's implementation of BBN's design, the debugging efforts of the hardware team, and the debates among the programming team regarding flow control. Despite setbacks and disagreements, BBN continued to work towards building a functional IMP system and meeting their commitments to ARPA.
+
+Words: 489

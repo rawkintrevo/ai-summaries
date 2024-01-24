@@ -1,26 +1,24 @@
 ---
 layout: page
 title: Fine Tuning
-date: 2024-01-24 18:51:04
+date: 2024-01-24 20:19:48
 ---
 
 [Back](./)
 
 
-In the second year of the network, changes were implemented to improve reliability and reduce costs. The decision was made to replace the Honeywell 516 with the newer, less expensive Honeywell 316, as the ruggedized version of the 516 was deemed unnecessary and hindered routine maintenance tasks. However, Honeywell was slow to adapt to BBN's vision for the network and there were issues with prolonged hardware failures. Ben Barker, who maintained the IMPs, proposed building a BBN-directed maintenance team, but this was initially opposed by McKenzie due to concerns about Barker's messy office. Eventually, Barker was given the job and implemented a crack maintenance team.
+In the second year of the network's existence, changes were made to improve its reliability and efficiency. The Honeywell 516 computer, which was expensive and overly ruggedized, was replaced with the newer and cheaper Honeywell 316. Ben Barker, who was responsible for maintaining and troubleshooting the IMPs in the field, believed that the cabinetry of the ruggedized 516 actually reduced reliability. However, Honeywell was slow to adopt the views of BBN and ARPA on how the network should operate. The IMPs experienced frequent downtime, averaging 3-4% per month, which was considered unacceptable. BBN threatened to cancel the contract with Honeywell and eventually proposed forming its own maintenance team. Despite some concerns about Barker's personal style, he was put in charge of the team.
 
-Meanwhile, Heart's confidence in the network's reliability grew and plans were made to transition to a new 316-based IMP. This transition was part of a larger shift in the network to allow for more users without the need for a host computer. This would open up the network to a wider range of users, aligning with Licklider's vision of a computer network facilitating communication and interaction.
+There was also a shift in the design of the network. BBN received approval to design a prototype IMP based on the Honeywell 316. This included the development of a Terminal IMP (TIP) that could handle multiple terminal connections without the need for a host computer. This would allow for more users to access the network, including military officers, government bureaucrats, and university administrators. BBN designed a multi-line controller for the TIP that could handle up to 63 terminals at once. These new machines were completed and scheduled for delivery in late summer of 1971.
 
-To support this shift, a new terminal controller, called a Terminal IMP or TIP, needed to be built. This device would allow for multiple terminal lines to be connected directly to the IMP and the network. BBN accelerated the development of the TIP and within six months, two prototype machines based on the 316 were completed.
+BBN continued to improve the network's packet-switching technology and address various technical challenges. They implemented congestion control measures to prevent the network from becoming overwhelmed with traffic. They also began exploring different types of terminal devices that could be connected to the network, such as graphics displays, line printers, and Teletype terminals.
 
-BBN also continued to improve the packet-switching technology and tested various routing algorithms, flow-control schemes, and throughput. The Network Control Center expanded and became staffed around the clock to maintain the network. An automatic phone dialer was added to monitor the condition of modems in the network. During one test, an angry voice on the other end of the line criticized a technician for calling with a whistle.
+The Network Control Center (NCC) expanded with the network and became a vital part of maintaining its operations. BBN staffed the NCC around the clock, seven days a week, and added an automatic phone dialer to monitor the condition of modems throughout the network. They encountered a humorous incident when a technician placed a call through the auto-dialer to a malfunctioning modem and heard an angry voice on the other end of the line.
 
-Congestion control was addressed by redesigning the scheme to reserve enough space in the IMP memory buffers for reassembly of incoming packets. This prevented the insertion of more traffic into the network than the destination IMP could handle.
+BBN also became more involved in the work of the Network Working Group (NWG) to coordinate the introduction of the Terminal IMP with the development of protocols. BBN joined NWG committees working on the host-to-host protocol, file-transfer protocol, and Telnet protocol. The Telnet protocol was a simple mechanism that allowed for basic communication between two host machines, while the file-transfer protocol (FTP) was developed to facilitate the sharing of files between machines. The FTP working group, chaired by Abhay Bhushan, worked for six months to create a working final product for file transfers.
 
-BBN also became more involved in the work of the Network Working Group (NWG), participating in committees working on protocols such as Telnet and FTP. Telnet allowed for basic communication between two host machines, while FTP facilitated file transfers between machines. The FTP working group, led by Abhay Bhushan, developed a file-transfer protocol that could handle the differences between various machines on the network.
+In July 1972, the file-transfer protocol (FTP) was finalized and released as RFC 354 by Jon Postel, who was now the editor and distributor of Requests For Comments. This marked a significant milestone in the development of the network, as it allowed for the seamless sharing of files between machines connected to the network.
 
-In July 1972, the final version of FTP was released as RFC 354, marking another milestone in the development of the network.
+Overall, the network underwent significant changes in its second year, with improvements made to its reliability, efficiency, and accessibility. The introduction of the Terminal IMP and the development of protocols like Telnet and FTP laid the foundation for the expansion and future success of the network.
 
-Overall, the second year of the network saw improvements in reliability, cost-effectiveness, and user accessibility. The network continued to grow and evolve, bringing Licklider's vision of a connected world one step closer to reality.
-
-Words: 453
+Words: 537

@@ -1,12 +1,28 @@
 ---
 layout: page
 title: A Real Network
-date: 2024-01-24 18:50:49
+date: 2024-01-24 20:19:31
 ---
 
 [Back](./)
 
 
-In October 1969, IMP Number Two was installed at SRI, marking an important achievement in the development of the network. Bob Taylor, who had been involved in the network project, left ARPA. The installation at SRI involved preparing their host computer, an SDS 940, to communicate with the IMP. A researcher named Bill Duvall wrote a program that allowed the 940 to act as if it were communicating with a dumb terminal. The first attempted connection between UCLA and SRI involved UCLA researcher Charley Kline picking up the phone and pressing a button that rang a bell on the IMP at SRI. The quality of the connection was poor, but Kline was able to transmit the letters L, O, and G before the SRI computer crashed. On a second attempt, the connection worked flawlessly and Kline was able to log on to the SRI machine and execute commands. The first ARPA network map was created, showing the connections between the four sites: UCLA, SRI, UCSB, and Utah. IMP Number Three was installed at UCSB in November 1969, with Rob Barker flying to California to oversee the installation. In December 1969, Larry Roberts flew to California to inspect the network firsthand and was satisfied with its success. The network was tested for congestive failure in January 1970 and it was discovered that the network could lock up due to congestion at a destination IMP. This problem was reported to Frank Heart, who instructed Robert Kahn and Dave Walden to work on fixing the issue. By the end of 1969, the Network Working Group had not yet come up with a host-to-host protocol, but they presented a patched-together protocol called Telnet that allowed for remote log-ins. However, Telnet did not solve the problem of letting two computers work together. In January 1970, Bob Kahn and Dave Walden flew to Los Angeles to test various scenarios in which the network could suffer congestive failure. They were able to force the network into catatonia by overwhelming it with packets. Kahn and Walden spent several days testing the limits of the IMPs, sometimes with the company of Vint Cerf, who had programmed the Sigma-7 to generate traffic to the IMP. The results of their testing were shared with Frank Heart and Danny Cohen, who used the data to improve the congestion control algorithms. Despite a few flaws, the network, hardware, and software were all functioning well and the predictions of failure were proven wrong.
+In October 1969, the second Interface Message Processor (IMP) was installed at SRI, following the successful installation of the first IMP at UCLA. Bob Taylor, who had been heavily involved in the network project, left ARPA and took a post at the University of Utah. The IMP installation at SRI was a significant milestone as it allowed for the connection of two disparate computers.
 
-Words: 409
+The SRI team, similar to the UCLA team, had to scramble to get ready for the arrival of the IMP. However, unlike the UCLA team, the SRI team loved their host computer, an SDS 940, because it was more fun to program. Bill Duvall, an SRI researcher, wrote a program that made the 940 think it was communicating with a dumb terminal, which was an interim solution to the host-to-host communication problem.
+
+Once both IMPs were installed and the hosts were running, the researchers were able to test the actual two-node ARPA network. The first thing they had to do was to connect to each other. They used a phonelike box attached to the IMPs to initiate the connection. The connection quality was not very good, and there were some technical difficulties, but eventually, they were able to establish a successful connection.
+
+It is ironic that the first program used over the network was one that made the distant computer act as a terminal, as the whole purpose of the network was to eliminate the master-slave relationship. However, this was a familiar use case that helped build trust in the new technology.
+
+Impressively, by the end of 1969, a four-node network had been established, connecting UCLA, SRI, UC Santa Barbara, and Utah. However, there were some vulnerabilities in the network structure. For example, there was no direct link between UCLA and Utah, or between Santa Barbara and Utah, so if the SRI IMP crashed, Utah would be cut off from the network.
+
+There were also disruptions caused by users not realizing the consequences of their actions on the network. At Santa Barbara, the students treated the IMP as a toy and would turn it on and off, disrupting network traffic analysis and experiments being conducted by researchers at BBN and UCLA.
+
+By the end of 1969, the Network Working Group (NWG) had not yet developed a host-to-host protocol. Under pressure to show progress, they presented a patched-together protocol called Telnet, which allowed for remote log-ins, but did not solve the problem of two computers working together. The NWG went back to the drawing board and, after a year of meetings and several RFCs, they produced a complete protocol called the Network Control Protocol (NCP).
+
+In January 1970, Bob Kahn decided to test various scenarios in which the network could suffer congestive failure. He flew to Los Angeles and worked with Dave Walden to put the network through its paces. They were able to induce a network lockup by overwhelming the IMPs with packets, proving Kahn's hypothesis. Despite this setback, the hardware and software of the network were working well, and ARPA's unique approach to the project had been successful.
+
+Overall, the predictions of failure were proven wrong, and the network experiment was a resounding success.
+
+Words: 529

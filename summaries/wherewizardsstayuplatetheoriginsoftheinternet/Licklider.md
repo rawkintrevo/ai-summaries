@@ -1,22 +1,26 @@
 ---
 layout: page
 title: Licklider
-date: 2024-01-24 18:49:03
+date: 2024-01-24 20:17:46
 ---
 
 [Back](./)
 
 
-The relationship between the military and computer establishments began during World War II. The military funded numerous computing experiments at the time, including the development of the Mark I, a large-scale calculator, and the ENIAC project, which led to the creation of the first electronic computer. In the early 1950s, computing primarily focused on performing arithmetic calculations quickly. Companies, especially banks, used computers for large-scale calculations. IBM, already a leading manufacturer of time clocks and tabulating equipment, entered the computer industry in 1953 and quickly surpassed the sales of its competitor, Univac.
+In the early years of the computer industry, the military played a significant role in funding computing experiments. During World War II, the military funded various computing projects to aid in faster calculations. For example, the Navy supported the development of the Mark I, a large-scale calculator, and the Army funded the Electronic Numerical Integrator And Calculator (ENIAC) project at the University of Pennsylvania. 
 
-In the late 1950s, Ken Olsen left MIT's Lincoln Laboratory to start the Digital Equipment Corporation. He built a smaller computer called a minicomputer that could interact directly with the user. Around the same time, another group of computer researchers at MIT came up with the concept of "time-sharing," which allowed many users to have interactive access to computers through individual terminals. Time-sharing eliminated the tedious waiting involved in batch processing and allowed users to obtain results immediately. The researchers saw time-sharing as a better way to operate and wanted to change the perception that computers were not a casual thing.
+In the 1950s, computing was primarily used for arithmetic operations, and companies like IBM started manufacturing large electronic computers for businesses. IBM's sales staff became legendary, and their machines quickly surpassed competitors like the Univac. 
 
-However, time-sharing did not eliminate the coordination of competing demands on the machine by different users. As the number of users increased, more of the computer's resources were dedicated to coordination, reducing actual processing time. Time-sharing had its limitations, but it sparked the idea of human-computer interaction and the potential for computers to act as extensions of human intelligence.
+In the late 1950s, Ken Olsen, an engineer, left MIT's Lincoln Laboratory and formed the Digital Equipment Corporation. One of their innovations was the development of the minicomputer, a smaller computer that could interact directly with the user. This idea came from a group of computer researchers at MIT. Another concept that was catching on was time-sharing, which allowed multiple users to have interactive access to computers from individual terminals. Time-sharing eliminated the need for batch processing and allowed users to obtain results immediately. 
 
-In 1961, the Air Force passed the Q-32 computer to ARPA (Advanced Research Projects Agency), which did not have anyone to administer the contract. J.C.R. Licklider, an eminent psychologist and computer enthusiast, was chosen to lead the command and control division at ARPA and also oversee a new program in behavioral sciences. Licklider believed that computers could amplify human intelligence and expand our analytical powers. He saw the potential for computers to act as problem-solving partners and to save valuable time. Licklider published a seminal paper in 1960 titled "Man-Computer Symbiosis," in which he described the close coupling between humans and computers and the potential for cooperative decision-making.
+The military's interest in computing continued in the 1960s when the Air Force passed on the Q-32 computer to the Advanced Research Projects Agency (ARPA), which was responsible for developing new technologies for the military. ARPA was searching for someone to administer the Q-32 project and to lead a new program in behavioral sciences. They found their candidate in J.C.R Licklider, a psychologist who had a strong interest in computers and their potential. 
 
-Licklider's ideas and enthusiasm for interactive computing caught the attention of Jack Ruina, the director of ARPA. Licklider joined ARPA in 1962 and quickly set out to change the perception of computers as tools for numerical calculations. He reached out to the best computer scientists of the time and brought them into ARPA's sphere. Licklider promoted the concept of time-sharing and saw great potential in it. He envisioned a future where computers would be accessible to everyone, allowing for interactive communication and cooperation. Licklider also advocated for the standardization of programming languages and systems to facilitate communication among different computers.
+Licklider believed that computers had the potential to act as extensions of human capabilities and envisioned a future where humans and computers worked as a symbiotic partnership. He saw the value in time-sharing and interactive computing, and his ideas shaped the direction of ARPA's research. 
 
-By the time Licklider left ARPA in 1964, he had shifted the agency's focus to advanced research in time-sharing systems, computer graphics, and improved computer languages. His successor, Ivan Sutherland, continued Licklider's work and hired Bob Taylor, who eventually played a key role in the development of ARPANET, the precursor to the internet. Licklider's vision and enthusiasm for computer technology paved the way for the interconnected world we know today.
+Licklider's influence on the field of computer science was profound. He wrote a seminal paper called "Man-Computer Symbiosis" in 1960, in which he argued for the close coupling of humans and computers for cooperative decision making. He saw computers as tools that could amplify human intelligence and expand our analytical powers. 
 
-Words: 530
+After joining ARPA, Licklider worked to shift the focus of the agency's research from command and control systems to advanced time-sharing systems, computer graphics, and improved computer languages. He also laid the foundation for the development of a network of interconnected computers. 
+
+Licklider's tenure at ARPA was short-lived, but his ideas and influence left a lasting impact on the field of computer science. He believed that computers had the potential to transform society and enable greater collaboration and problem-solving. His vision set the stage for the development of the modern internet and the widespread use of computers in various industries.
+
+Words: 452

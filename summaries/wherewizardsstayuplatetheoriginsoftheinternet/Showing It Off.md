@@ -1,24 +1,32 @@
 ---
 layout: page
 title: Showing It Off
-date: 2024-01-24 18:51:11
+date: 2024-01-24 20:19:57
 ---
 
 [Back](./)
 
 
-In the fall of 1971, the ARPA network carried an average of just 675,000 packets per day, barely utilizing even 2% of its capacity. The network served mainly as a testbed for the computer research community, and its potential had yet to be realized by most users. Larry Roberts, a key figure in the development of the network, realized that a public demonstration was needed to spread awareness of its potential.
+In the fall of 1971, the ARPA network, the precursor to the modern internet, was facing a problem - a lack of load. The network had a capacity of 30 million packets per day, but it was only carrying an average of 675,000 packets per day. The network protocols were still being developed and there wasn't enough natural traffic to fully test the system.
 
-Roberts enlisted Bob Kahn to organize the demonstration, which was scheduled for October 1972 at the International Conference on Computer Communication in Washington. Kahn, along with Al Vezza, traveled across the country to recruit participants and plan the demonstration. They met with vendors in the computer industry and asked them to bring their own terminals to connect to the network. The plan was to run demonstrations on as many machines as possible, showcasing the network's resources to conference attendees.
+Despite this, there were some early interesting uses of the network. Programmers at SRI were using the network to run simulations and generate traffic. Bob Metcalfe and Danny Cohen conducted an experiment where they simulated an aircraft carrier landing and displayed the image on a graphics terminal. This experiment demonstrated that programs could be moved around the network in real-time.
 
-The preparations for the demonstration were intense, with teams of students and researchers working to finalize the network tools and protocols. The ICCC demonstration was intended to put pressure on the community to make sure the network would be functioning flawlessly by the designated date. The network equipment and people arrived at the hotel where the conference was being held and began setting up. The room was filled with terminals and cables as technicians worked to ensure everything was connected and functioning properly.
+However, the ARPA network was only known within the computer research community and its potential as a resource-sharing tool was not yet realized. Larry Roberts, the head of the network project, realized that a public demonstration was necessary to spread awareness. He enlisted the help of Bob Kahn, who was still at BBN at the time, to plan the demonstration.
 
-On the day of the preview demonstration for VIPs, there was a moment of panic when packets were being lost due to a glitchy line in the network. The operators at the Network Control Center quickly removed the link, restoring the flow of packets. Despite this hiccup, the preparations continued, and the conference officially opened the next day.
+Kahn recruited Al Vezza to assist him in organizing the demonstration. They called a meeting of principal investigators from around the country to present the idea of a highly accessible and interactive demonstration of the network's resources. The goal was to show that the network was not only real but useful.
 
-During the conference, attendees were given a scenarios book that described various demonstrations and provided instructions on how to connect to the network and use its resources. However, many found the book confusing, and there were instances of people accidentally crashing the system or experiencing other technical difficulties. Despite these challenges, the conference showcased the potential of packet-switching technology and its ability to enable resource-sharing and real-time communication.
+Over the next nine months, Kahn and Vezza traveled the country, meeting with vendors and coordinating efforts to finalize the network tools and protocols. They invited terminal manufacturers to participate in the demonstration and worked with teams of graduate students and principal investigators to design interesting scenarios for the event.
 
-Some of the demonstrations included conversational programs that engaged users in verbal dialogue. One, called PARRY, mimicked the belief system of a paranoid psychotic, while another called the Doctor mimicked the behavior of a psychiatrist. These programs demonstrated the lifelike quality of conversations that could be had over the network.
+The demonstration was scheduled to take place at the first International Conference on Computer Communication in October 1972. The organizers planned to run demonstrations on as many machines as possible, connected to as many sites as possible. They wanted conference-goers to be able to sit down, log on, and use the network's resources.
 
-Overall, the ICCC demonstration was successful in establishing the viability of packet-switching and the potential of the ARPANET. It showcased the network's capabilities and sparked excitement within the computer research community. The event proved that resource-sharing over a network was possible, leading to a greater sense of community and the recognition of electronic mail as a valuable tool within the network.
+In the weeks leading up to the event, there was a flurry of activity as participants worked to debug applications and get host computers up and running. The networking equipment and people arrived at the hotel a few days before the conference. The meeting room was transformed into a tangle of wires as technicians set up the terminals and connected them to the network.
 
-Words: 470
+On the day of the preview demonstration for VIPs, there was a moment of panic when the network started losing packets. The issue was quickly resolved, but it was a reminder of how much pressure there was to ensure that the network functioned flawlessly during the demonstration.
+
+The conference opened on Monday, and conference-goers were eagerly ushered into the demonstration room. Many found the scenarios book provided by Bob Metcalfe to be incomprehensible and struggled to follow the instructions. Some participants had amusing interactions with the network, while others experienced frustration. Despite a few hiccups, the demonstration was considered a success.
+
+The ICCC demonstration had a significant impact on establishing the viability of packet-switching and the ARPANET. It showcased the potential of resource-sharing and changed the perception of the technology. The event also solidified the sense of community within the network and paved the way for future developments.
+
+In the end, the demonstration proved that the network was more than just a testbed for artificial traffic. It was a real and useful tool that could be used for electronic mail and resource-sharing. The ARPA network had taken a major step forward and was no longer just an experiment.
+
+Words: 600

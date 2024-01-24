@@ -1,28 +1,28 @@
 ---
 layout: page
 title: Acknowledgments
-date: 2024-01-24 18:52:45
+date: 2024-01-24 20:21:46
 ---
 
 [Back](./)
 
 
-This book originated from an idea conceived by engineers at Bolt Beranek and Newman (BBN) in 1993. The goal was to record the significant role that BBN played in the creation of the original ARPANET. The company opened its archives to the authors and provided funding for the project.
+The book that is being referenced in this document is about the creation of the original ARPANET, the precursor to the modern internet. The idea for the book originated with engineers at Bolt Beranek and Newman (BBN), who wanted to document their significant role in the creation of the ARPANET. The book was a collaborative effort, with BBN opening its archives and providing funding for the project. The company did not exercise any control over the content of the book.
 
-The authors express their gratitude to various individuals and institutions that assisted them in their research. Marian Bremer, BBN’s head librarian, initiated the project. Cary Lu and John Markoff encouraged the authors to take on this endeavor. The authors also received help from Helen Samuels and the MIT archives, Kevin Corbitt from the Charles Babbage Institute, and the Wired magazine team.
+Several individuals and organizations played a crucial role in the development of the book. Marian Bremer, BBN's head librarian, made the initial phone call that led to the project. Cary Lu and John Markoff, among others, encouraged the authors to take on the endeavor. The MIT archives and the Charles Babbage Institute at the University of Minnesota provided valuable assistance, as did Kevin Corbitt, an assistant archivist.
 
-Several individuals were interviewed at length for this book, including Wes Clark, Vint Cerf, Bob Kahn, Severo Ornstein, Bob Taylor, Larry Roberts, Jon Postel, Frank Heart, Alex McKenzie, Dave Walden, Ben Barker, Donald Davies, Paul Baran, Len Kleinrock, Steve Lukasik, Steve Crocker, and Bob Metcalfe. Additionally, the authors received memories and insights from people who knew J.C.R. Licklider, including Louise Licklider, Bill McGill, John Swets, and Karl Kryter. Mitch Waldrop also provided helpful information. Phil Patton shared his copy of the Barber Associates study, and various experts such as Brian Reid, Gary Chapman, Kevin Buckley, Dave Farber, and Colonel Clair Shirey offered their expertise on relevant topics.
+The authors conducted numerous interviews with key figures in the creation of the ARPANET. These interviews included Wes Clark, Vint Cerf, Bob Kahn, Severo Ornstein, Bob Taylor, Larry Roberts, Jon Postel, Frank Heart, Alex McKenzie, Dave Walden, Ben Barker, Donald Davies, Paul Baran, Len Kleinrock, Steve Lukasik, Steve Crocker, and Bob Metcalfe. Others, such as Louise Licklider, Bill McGill, John Swets, and Karl Kryter, shared their memories of J.C.R. Licklider and his contributions. Mitch Waldrop also provided additional information.
 
-The authors express their appreciation to those who read the manuscript in whole or in part at various stages of completion. They include Vint Cerf, Lyman Chapin, Steve Crocker, Peter Denning, Frank Heart, Bob Kahn, John Kelley, Larry Landweber, Steven Levy, Hank Long, Paul McJones, Alex McKenzie, Peter Preuss, Larry Roberts, Einar Stefferud, Bob Taylor, John Vittal, Dave Walden, and Susan Zacharias. Everett Hafner, Richard Lyon, Jon Coifman, and Andrea Perry also contributed to the manuscript's development.
+The authors received support and information from various sources throughout the writing process. Phil Patton entrusted them with his copy of the Barber Associates study. They consulted with experts such as Brian Reid, Gary Chapman, Kevin Buckley, Dave Farber, and Colonel Clair Shirey. Marsha Longshore of IEEE sent technical articles, and Earl Swartzlander shared his copies of the IEEE computer history annals. Steve Wolff helped them understand the events of the 1980s, particularly regarding NSF's role in the development of the Internet.
 
-Other individuals provided assistance during the final stages of manuscript preparation. Julian Darley helped type in changes, and Denise Bugg transcribed many tapes. Pete Lewis used a Wacom Pen Tablet to help with certain tasks. Sigrid Cerf offered advice and entertaining stories. Matt Pallakoff, author of "Retrieve It!," provided assistance in saving time. John Aielli also provided support during the writing process.
+The manuscript went through several stages of completion and was read by a number of individuals, including Vint Cerf, Lyman Chapin, Steve Crocker, Peter Denning, Frank Heart, Bob Kahn, John Kelley, Larry Landweber, Steven Levy, Hank Long, Paul McJones, Alex McKenzie, Peter Preuss, Larry Roberts, Einar Stefferud, Bob Taylor, John Vittal, Dave Walden, and Susan Zacharias. The authors also had the help of Everett Hafner, their research assistant, and Andrea Perry, the proofreader.
 
-The authors express their gratitude to those who provided personal support during the writing process. Zoë Mark Lyon offered daily encouragement and laughter. Denny Lyon, Amy Goodwin, Kelly McRee, Ellen Lyon, and Jeremy Lyon assisted with childcare. Sherry Turkle, Sarah Hafner, Teresa Carpenter, Terry Evers, Robert Wallich, Tony Bianco, and Carol Flake provided a sympathetic ear. Ladd Hanson and Mark McFarland helped with technical issues. George Hackett and Bob Berdahl supported the authors despite their reservations. Ann Walther, Lindsey Lane, and Tom Ferguson came to the rescue on multiple occasions. Paulina Borsook offered valuable insights.
+The authors express their gratitude to several individuals who provided support and advice throughout the process. Zoë Mark Lyon provided moral support and humor, while Denny Lyon, Amy Goodwin, Kelly McRee, Ellen Lyon, and Jeremy Lyon helped with childcare. Sherry Turkle, Sarah Hafner, Teresa Carpenter, Terry Evers, Robert Wallich, Tony Bianco, and Carol Flake offered a sympathetic ear. Others, such as Ladd Hanson, Mark McFarland, George Hackett, Bob Berdahl, Ann Walther, Lindsey Lane, Tom Ferguson, and Paulina Borsook, provided assistance and insights when needed.
 
-The authors also express their appreciation to those who provided accommodations during their travels. Chris Paine, Katherine Magraw, Holly Myers, Kirk Neely, Lisa Van Dusen, Candace Thille, Julie Graham, Debbie Yager, Katherine and Irving Gottsegen, Jane and Frank Heart, Barry Muhlfelder, Jane Anderson, and Eric Ponteri helped provide a roof over their heads.
+The authors also acknowledge the help they received during their travels, including housing provided by Chris Paine, Katherine Magraw, Holly Myers, Kirk Neely, Lisa Van Dusen, Candace Thille, Julie Graham, Debbie Yager, Katherine and Irving Gottsegen, Jane and Frank Heart, Barry Muhlfelder, Jane Anderson, and Eric Ponteri.
 
-The authors also acknowledge the literary agents, John Brockman and Katinka Matson, who recognized the book's potential. Bob Bender, their editor at Simon & Schuster, understood what the book should be. Johanna Li, his assistant, was always reliable.
+They express their gratitude to their literary agents, John Brockman and Katinka Matson, who recognized the potential of the book. Bob Bender, the editor at Simon & Schuster, played a crucial role in shaping the book, and his assistant, Johanna Li, provided unwavering support.
 
-The authors sign their names in the acknowledgment section, with Katie Hafner providing her email address and Matthew Lyon providing his university email address.
+The document concludes with the contact information of the authors, Katie Hafner and Matthew Lyon, and their respective email addresses.
 
-Words: 566
+Words: 576

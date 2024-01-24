@@ -1,29 +1,28 @@
 ---
 layout: page
 title: The Search for Protocols
-date: 2024-01-24 18:50:39
+date: 2024-01-24 20:19:22
 ---
 
 [Back](./)
 
 
-In the summer of 1968, a group of graduate students from UCLA, SRI, UC Santa Barbara, and the University of Utah met to discuss the networking experiment being planned by ARPA. They were excited about the prospects of networking and imagined various possibilities such as interactive graphics, cooperating processes, automatic database query, and electronic mail. However, they lacked concrete details about how the network would be implemented and how hosts would communicate with each other.
+In the summer of 1968, a small group of graduate students from UCLA, SRI, UC Santa Barbara, and the University of Utah met in Santa Barbara to discuss the planning of a computer network. They were excited about the possibilities of networking and the ARPA experiment. The meeting was successful in generating enthusiasm and interest in the network. The group decided to meet regularly and began discussing how the network would work and what applications it would support.
 
-To address these questions, the group decided to meet regularly and discuss their ideas. Since there were no official protocol designers at the time, Steve Crocker volunteered to write the first minutes of their discussions. He titled it "Request for Comments" (RFC) and sent it out on April 7, 1969, to the other sites. The RFC described the basic handshake between two computers and became the first of many RFCs that would be used to promote cooperation and open expression in the computer networking community.
+To keep track of their discussions, one of the students, Steve Crocker, volunteered to write minutes of the meetings. He labeled his first set of minutes as "Request for Comments" and distributed them to the other sites. This document, titled "Host Software," described the basic handshake between two computers and set the tone for future RFCs. The RFCs became the principal means of communication and collaboration in the computer networking community.
 
-The group started calling themselves the Network Working Group (NWG) and focused on designing protocols for host-to-host communication. They wanted to create a common base that would be simple, flexible, and adaptable to future needs. They adopted a layered approach to protocol design, with each layer having limited scope and the expectation that they could be combined or modified as needed.
+The group, now called the Network Working Group (NWG), continued meeting regularly to discuss protocols and applications for the network. They decided to design a host-to-host protocol that would allow computers to communicate as peers. This was a difficult task as computers at the time were designed to interact with peripheral devices, not with other computers. The goal was to create a protocol that would allow two computers to engage in a dialogue, with each side being able to initiate communication and respond to the other.
 
-One of the main challenges in designing the host-to-host protocol was getting the computers to communicate as equals, rather than one being the master and the other the subordinate. The computers of that time were egocentric and not designed for peer-to-peer communication. The NWG aimed to create protocols that would allow the mainframe computers to engage in simple dialogues with each other.
+The NWG also had to write network applications for specific tasks such as remote log-ins and file transfers. They faced challenges in designing the host-to-host protocol and writing the network applications. The protocol needed to be simple, open, and adaptable, allowing for future modifications and additions. The NWG adopted a layered approach to protocols, breaking them down into simple, focused protocols that could be combined in various ways.
 
-As the NWG worked on designing the protocol, they also had to write network applications for specific tasks such as remote log-ins and file transfers. They received a set of specifications for connecting host computers to the Interface Message Processors (IMPs) from BBN, the company responsible for building the network. However, the specifications did not include any special software for host-to-host communication, leaving it up to the host computers to figure out.
+In the spring of 1969, UCLA received the specifications for connecting host computers to the IMPs (Interface Message Processors). The NWG had to build hardware interfaces and write device drivers to operate the host-to-IMP connections. BBN's specifications clarified the boundaries between the IMP and the host, leaving the host computer responsible for host-to-host communication.
 
-In the summer of 1969, as the first IMP was about to arrive at UCLA, the NWG was still struggling to finalize the host-to-host protocol. They decided to tell each site to create makeshift protocols in the meantime. UCLA managed to build the hardware interface for their host-to-IMP connection, thanks to the efforts of graduate student Mike Wingfield.
+During the summer of 1969, the NWG worked on building the host-to-IMP interfaces and writing the host-to-host protocol. However, they realized they were running out of time and decided to tell each site to create makeshift protocols until a proper protocol could be developed. UCLA managed to build the host-to-IMP interface in time for the arrival of the IMP.
 
-The IMP was shipped to UCLA by air freight and arrived on August 30, 1969, two days earlier than expected. Len Kleinrock, Steve Crocker, Jon Postel, Vint Cerf, and others were present to receive the IMP. It was larger than expected, roughly the size of a refrigerator, and weighed over nine hundred pounds. The IMP was swiftly installed and connected to the host computer, and within an hour, data was being transmitted between the Sigma-7 and the IMP.
+On August 30, 1969, the IMP arrived at UCLA. Len Kleinrock, Steve Crocker, and others were there to receive it. The IMP, a large and heavy machine, was installed in room 3400 at UCLA. It was connected to the Sigma-7 computer, and within an hour, data was being passed between the two machines.
 
-Although there were concerns about synchronizer bugs, everything seemed to be working smoothly. Ben Barker, who accompanied the IMP to UCLA, called Frank Heart, the project leader, to inform him that the IMP was successfully connected and communicating with the host computer. Heart advised Barker to stay a few more days to ensure nothing went wrong, but the IMP continued to function perfectly.
+The arrival of the IMP at UCLA marked a significant milestone in the development of the ARPANET. The NWG had overcome many challenges in designing the host-to-host protocol and building the interfaces. Now, they could continue their work in creating applications for the network.
 
-Thus, the arrival of the IMP at UCLA marked a milestone in the development of the ARPANET, and the NWG continued their work on designing protocols and applications for the emerging network.
+In summary, in the summer of 1968, a group of graduate students met to discuss the planning of a computer network. From these meetings, the Network Working Group (NWG) emerged, dedicated to designing protocols and applications for the network. The NWG created a series of Request for Comments (RFCs) and adopted a layered approach to protocols. They faced challenges in building the hardware interfaces and writing the host-to-host protocol. The arrival of the IMP at UCLA marked a significant milestone in the development of the ARPANET.
 
-
-Words: 586
+Words: 599
