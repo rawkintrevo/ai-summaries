@@ -103,3 +103,5 @@ layout: home
 - [Where Wizards Stay Up Late: The Origins Of The Internet](summaries/wherewizardsstayuplatetheoriginsoftheinternet/index.html)
 
 - [Where Wizards Stay Up Late: The Origins Of The Internet](summaries/wherewizardsstayuplatetheoriginsoftheinternet/index.html)
+
+- [3 Months to No.1: The 2019 "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](summaries/3monthstono1the2019nononsenseseoplaybookforgettingyourwebsitefoundongoogle/index.html)
