@@ -1,0 +1,12 @@
+---
+layout: page
+title: A Real Network
+date: 2024-01-24 18:50:49
+---
+
+[Back](./)
+
+
+In October 1969, IMP Number Two was installed at SRI, marking an important achievement in the development of the network. Bob Taylor, who had been involved in the network project, left ARPA. The installation at SRI involved preparing their host computer, an SDS 940, to communicate with the IMP. A researcher named Bill Duvall wrote a program that allowed the 940 to act as if it were communicating with a dumb terminal. The first attempted connection between UCLA and SRI involved UCLA researcher Charley Kline picking up the phone and pressing a button that rang a bell on the IMP at SRI. The quality of the connection was poor, but Kline was able to transmit the letters L, O, and G before the SRI computer crashed. On a second attempt, the connection worked flawlessly and Kline was able to log on to the SRI machine and execute commands. The first ARPA network map was created, showing the connections between the four sites: UCLA, SRI, UCSB, and Utah. IMP Number Three was installed at UCSB in November 1969, with Rob Barker flying to California to oversee the installation. In December 1969, Larry Roberts flew to California to inspect the network firsthand and was satisfied with its success. The network was tested for congestive failure in January 1970 and it was discovered that the network could lock up due to congestion at a destination IMP. This problem was reported to Frank Heart, who instructed Robert Kahn and Dave Walden to work on fixing the issue. By the end of 1969, the Network Working Group had not yet come up with a host-to-host protocol, but they presented a patched-together protocol called Telnet that allowed for remote log-ins. However, Telnet did not solve the problem of letting two computers work together. In January 1970, Bob Kahn and Dave Walden flew to Los Angeles to test various scenarios in which the network could suffer congestive failure. They were able to force the network into catatonia by overwhelming it with packets. Kahn and Walden spent several days testing the limits of the IMPs, sometimes with the company of Vint Cerf, who had programmed the Sigma-7 to generate traffic to the IMP. The results of their testing were shared with Frank Heart and Danny Cohen, who used the data to improve the congestion control algorithms. Despite a few flaws, the network, hardware, and software were all functioning well and the predictions of failure were proven wrong.
+
+Words: 409
