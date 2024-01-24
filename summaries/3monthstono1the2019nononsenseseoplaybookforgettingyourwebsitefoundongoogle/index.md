@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3 Months to No.1: The 2019 No-Nonsense" SEO Playbook for Getting Your Website Found on Google
+title: 3 Months to No.1: The 2019 No-Nonsense SEO Playbook for Getting Your Website Found on Google
 date: 2024-01-24 20:30:19
 ---
 
