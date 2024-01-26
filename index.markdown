@@ -115,3 +115,5 @@ layout: home
 - [The Healthy Mind Toolkit](summaries/thehealthymindtoolkit/index.html)
 
 - [Fail Big: Fail Your Way to Success and Break All the Rules to Get There (Break Your Fear Series Book 4)](summaries/failbigfailyourwaytosuccessandbreakalltherulestogettherebreakyourfearseriesbook4/index.html)
+
+- [People Powered](summaries/peoplepowered/index.html)
